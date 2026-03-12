@@ -1,1 +1,1 @@
-export const TestModelName = 'Test';
+export const AuthModelName = 'Auth';

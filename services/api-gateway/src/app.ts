@@ -29,7 +29,7 @@ const corsOptions: Record<string, any> = {
 app.use(cors(corsOptions));
 app.use(helmet({ crossOriginEmbedderPolicy: false }));
 app.use(morgan("dev"));
-app.use(express.json());
+// app.use(express.json());
 
 app.use(
   "/static",
