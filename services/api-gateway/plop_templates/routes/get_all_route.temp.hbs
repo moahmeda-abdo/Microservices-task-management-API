@@ -1,0 +1,57 @@
+import { Router, Request } from "express";
+
+import { {{properCase name}} } from "@models/{{snakeCase name}}/{{snakeCase name}}.model";
+const router = Router();
+
+
+{{#if authRequired}}
+import { AuthRequired } from "@core/middleware/auth/auth-required.middleware";
+{{/if}}
+{{#if userType}}
+import { RequireUserType } from "@core/middleware/auth/require-user-type.middleware";
+{{/if}}
+{{#if userRole}}
+import { RequireUserRole } from "@core/middleware/auth/require-user-role.middleware";
+{{/if}}
+
+import { Middleware } from "@common/types.common";
+
+const Get{{properCase name}}Controller:Middleware = async (req, res) => {
+  const limit = +(req.query.limit ?? "20");
+  const skip = +(req.query.skip ?? "0");
+  const {order, sortBy} = req.query as Record<string, any>;
+  
+	const sort: Record<string, any> = {};
+	sort[sortBy ?? "created_at"]=order ?? "desc";
+
+	const query = buildQuery(req);
+
+	const totalDocumentsCount = await {{properCase name}}.countDocuments(query)
+	
+  res.status(200).json({
+    status: 200,
+    data: await {{properCase name}}.find(query).sort(sort).limit(limit).skip(skip).select("-is_deleted"),
+		total: totalDocumentsCount
+  });
+};
+router.get(
+	"/",
+	{{#if authRequired}}
+  AuthRequired,
+  {{/if}}
+  {{#if userType}}
+  RequireUserType("{{userType}}"),
+  {{/if}}
+	Get{{properCase name}}Controller,
+);
+
+export { router as Get{{properCase name}}sRoute };
+
+function buildQuery(req: Request) {
+	const {} = req.query as Record<string, any>;
+	const query: Record<string, any> = {
+    is_deleted: false
+  }
+
+	return query;
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 966,
+    "name": "برن",
+    "priority": 0,
+    "country_id": 28,
+    "country_name": "سويسرا",
+    "country_code": "CH",
+    "ar_name": "برن",
+    "en_name": "Bern"
+  },
+  {
+    "id": 968,
+    "name": "جنيف",
+    "priority": 0,
+    "country_id": 28,
+    "country_name": "سويسرا",
+    "country_code": "CH",
+    "ar_name": "جنيف",
+    "en_name": "Geneva"
+  },
+  {
+    "id": 967,
+    "name": "زيوريخ",
+    "priority": 0,
+    "country_id": 28,
+    "country_name": "سويسرا",
+    "country_code": "CH",
+    "ar_name": "زيوريخ",
+    "en_name": "Zurich"
+  },
+  {
+    "id": 1344,
+    "name": "أخرى",
+    "priority": -1,
+    "country_id": 28,
+    "country_name": "سويسرا",
+    "country_code": "CH",
+    "ar_name": "أخرى",
+    "en_name": "Other"
+  }
+]

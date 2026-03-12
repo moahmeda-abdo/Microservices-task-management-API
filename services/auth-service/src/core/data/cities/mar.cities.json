@@ -1,0 +1,22 @@
+[
+  {
+    "id": 979,
+    "name": "الرباط",
+    "priority": 0,
+    "country_id": 10,
+    "country_name": "المغرب",
+    "country_code": "MA",
+    "ar_name": "الرباط",
+    "en_name": "Rabat"
+  },
+  {
+    "id": 1439,
+    "name": "أخرى",
+    "priority": -1,
+    "country_id": 10,
+    "country_name": "المغرب",
+    "country_code": "MA",
+    "ar_name": "أخرى",
+    "en_name": "Other"
+  }
+]

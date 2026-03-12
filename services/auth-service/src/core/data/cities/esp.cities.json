@@ -1,0 +1,42 @@
+[
+  {
+    "id": 940,
+    "name": "برشلونة",
+    "priority": 0,
+    "country_id": 27,
+    "country_name": "إسبانيا",
+    "country_code": "ES",
+    "ar_name": "برشلونة",
+    "en_name": "Barcelona"
+  },
+  {
+    "id": 941,
+    "name": "فالنسيا",
+    "priority": 0,
+    "country_id": 27,
+    "country_name": "إسبانيا",
+    "country_code": "ES",
+    "ar_name": "فالنسيا",
+    "en_name": "Valencia"
+  },
+  {
+    "id": 939,
+    "name": "مدريد",
+    "priority": 0,
+    "country_id": 27,
+    "country_name": "إسبانيا",
+    "country_code": "ES",
+    "ar_name": "مدريد",
+    "en_name": "Madrid"
+  },
+  {
+    "id": 1369,
+    "name": "أخرى",
+    "priority": -1,
+    "country_id": 27,
+    "country_name": "إسبانيا",
+    "country_code": "ES",
+    "ar_name": "أخرى",
+    "en_name": "Other"
+  }
+]

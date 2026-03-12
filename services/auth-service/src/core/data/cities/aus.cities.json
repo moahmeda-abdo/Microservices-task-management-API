@@ -1,0 +1,22 @@
+[
+  {
+    "id": 973,
+    "name": "كانبيرا",
+    "priority": 0,
+    "country_id": 14,
+    "country_name": "أستراليا",
+    "country_code": "AU",
+    "ar_name": "كانبيرا",
+    "en_name": "Canberra"
+  },
+  {
+    "id": 1314,
+    "name": "أخرى",
+    "priority": -1,
+    "country_id": 14,
+    "country_name": "أستراليا",
+    "country_code": "AU",
+    "ar_name": "أخرى",
+    "en_name": "Other"
+  }
+]

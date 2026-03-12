@@ -1,0 +1,22 @@
+[
+  {
+    "id": 976,
+    "name": "طرابلس",
+    "priority": 0,
+    "country_id": 11,
+    "country_name": "ليبيا",
+    "country_code": "LY",
+    "ar_name": "طرابلس",
+    "en_name": "Tripoli"
+  },
+  {
+    "id": 1438,
+    "name": "أخرى",
+    "priority": -1,
+    "country_id": 11,
+    "country_name": "ليبيا",
+    "country_code": "LY",
+    "ar_name": "أخرى",
+    "en_name": "Other"
+  }
+]

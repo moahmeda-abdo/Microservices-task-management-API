@@ -1,0 +1,42 @@
+[
+  {
+    "id": 948,
+    "name": "دبلن",
+    "priority": 0,
+    "country_id": 22,
+    "country_name": "جمهورية أيرلندا",
+    "country_code": "IE",
+    "ar_name": "دبلن",
+    "en_name": "Dublin"
+  },
+  {
+    "id": 949,
+    "name": "غالواي",
+    "priority": 0,
+    "country_id": 22,
+    "country_name": "جمهورية أيرلندا",
+    "country_code": "IE",
+    "ar_name": "غالواي",
+    "en_name": "Galway"
+  },
+  {
+    "id": 950,
+    "name": "فلين",
+    "priority": 0,
+    "country_id": 22,
+    "country_name": "جمهورية أيرلندا",
+    "country_code": "IE",
+    "ar_name": "فلين",
+    "en_name": "Cork"
+  },
+  {
+    "id": 1404,
+    "name": "أخرى",
+    "priority": -1,
+    "country_id": 22,
+    "country_name": "جمهورية أيرلندا",
+    "country_code": "IE",
+    "ar_name": "أخرى",
+    "en_name": "Other"
+  }
+]

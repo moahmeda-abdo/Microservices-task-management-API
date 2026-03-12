@@ -1,0 +1,13 @@
+import { Document } from 'mongoose'
+
+export interface {{properCase name}} {
+  is_deleted: boolean;  
+  created_at: Date;
+  updated_at: Date;
+}
+
+export interface {{properCase name}}Document extends {{properCase name}}, Document {}
+
+export type Create{{properCase name}}Data = Omit<{{properCase name}}, 'created_at' | 'updated_at' | 'is_deleted'>
+
+export type Update{{properCase name}}Data = Omit<{{properCase name}}, 'created_at' | 'is_deleted'>

@@ -1,0 +1,1172 @@
+ [
+{
+"id": 372,
+"name": "أبو شغارة",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "أبو شغارة",
+"en_name": "Abu Shagara"
+},
+{
+"id": 370,
+"name": "أبو هيل",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "أبو هيل",
+"en_name": "Abu Hayl"
+},
+{
+"id": 125,
+"name": "أبوظبي",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "أبوظبي",
+"en_name": "Abu Dhabi"
+},
+{
+"id": 376,
+"name": "أذن",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "أذن",
+"en_name": "Adhan"
+},
+{
+"id": 129,
+"name": "أم القيوين",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "أم القيوين",
+"en_name": "Umm al-Quwain"
+},
+{
+"id": 835,
+"name": "أم النار",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "أم النار",
+"en_name": "Um Al Nar"
+},
+{
+"id": 843,
+"name": "أم خنور",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "أم خنور",
+"en_name": "Umm Kanoor"
+},
+{
+"id": 419,
+"name": "ال خاشفاه",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "ال خاشفاه",
+"en_name": "Al Khashfah"
+},
+{
+"id": 482,
+"name": "البدية",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "البدية",
+"en_name": "Badiyah"
+},
+{
+"id": 502,
+"name": "البستان",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "البستان",
+"en_name": "Bustan"
+},
+{
+"id": 457,
+"name": "التعاون",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "التعاون",
+"en_name": "Al Tawoon"
+},
+{
+"id": 593,
+"name": "الجرف",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "الجرف",
+"en_name": "Jarf"
+},
+{
+"id": 595,
+"name": "الجزَات",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "الجزَات",
+"en_name": "Jazzat"
+},
+{
+"id": 413,
+"name": "الجزيرة",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "الجزيرة",
+"en_name": "Al Jazirah"
+},
+{
+"id": 414,
+"name": "الجزيرة الحمراء",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "الجزيرة الحمراء",
+"en_name": "Al Jazirah Al Hamra"
+},
+{
+"id": 405,
+"name": "الحمرانية",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "الحمرانية",
+"en_name": "Al Hamraniyah"
+},
+{
+"id": 406,
+"name": "الحمرية",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "الحمرية",
+"en_name": "Al Hamriyah"
+},
+{
+"id": 408,
+"name": "الحيل",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "الحيل",
+"en_name": "Al Hayl"
+},
+{
+"id": 418,
+"name": "الخان",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "الخان",
+"en_name": "Al Khan"
+},
+{
+"id": 1269,
+"name": "الختم",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "الختم",
+"en_name": "Al Khatem"
+},
+{
+"id": 624,
+"name": "الخران",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "الخران",
+"en_name": "Kharran"
+},
+{
+"id": 399,
+"name": "الدوس",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "الدوس",
+"en_name": "Al Duss"
+},
+{
+"id": 139,
+"name": "الذيد",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "الذيد",
+"en_name": "Al Dhayd"
+},
+{
+"id": 734,
+"name": "الراشدية",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "الراشدية",
+"en_name": "Rashidya"
+},
+{
+"id": 745,
+"name": "الرغيلات",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "الرغيلات",
+"en_name": "Rughaylat"
+},
+{
+"id": 1274,
+"name": "الرفاعة",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "الرفاعة",
+"en_name": "Al Rafa'ah"
+},
+{
+"id": 729,
+"name": "الرماقية",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "الرماقية",
+"en_name": "Ramaqiya"
+},
+{
+"id": 731,
+"name": "الرمثاء",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "الرمثاء",
+"en_name": "Ramtha"
+},
+{
+"id": 445,
+"name": "الرمس",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "الرمس",
+"en_name": "Al Rams"
+},
+{
+"id": 730,
+"name": "الرملة",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "الرملة",
+"en_name": "Ramlah"
+},
+{
+"id": 447,
+"name": "الروية",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "الروية",
+"en_name": "Al Ruwaiya"
+},
+{
+"id": 134,
+"name": "الرويس",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "الرويس",
+"en_name": "Al Ruways"
+},
+{
+"id": 460,
+"name": "الزهراء",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "الزهراء",
+"en_name": "Al Zahra"
+},
+{
+"id": 779,
+"name": "السطوة",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "السطوة",
+"en_name": "Satwa"
+},
+{
+"id": 135,
+"name": "السلع",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "السلع",
+"en_name": "Sila"
+},
+{
+"id": 767,
+"name": "السيف",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "السيف",
+"en_name": "Saif"
+},
+{
+"id": 127,
+"name": "الشارقة",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "الشارقة",
+"en_name": "Sharjah"
+},
+{
+"id": 787,
+"name": "الشعم",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "الشعم",
+"en_name": "Al Sha'M"
+},
+{
+"id": 790,
+"name": "الشندغة",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "الشندغة",
+"en_name": "Shandaghah"
+},
+{
+"id": 784,
+"name": "الشهباء",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "الشهباء",
+"en_name": "Shahba"
+},
+{
+"id": 771,
+"name": "الصالحية",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "الصالحية",
+"en_name": "Salihiyah"
+},
+{
+"id": 386,
+"name": "العارضية",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "العارضية",
+"en_name": "Al Ardiyah"
+},
+{
+"id": 391,
+"name": "العزرة",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "العزرة",
+"en_name": "Al Azrah"
+},
+{
+"id": 380,
+"name": "العكامية",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "العكامية",
+"en_name": "Akamiyah"
+},
+{
+"id": 479,
+"name": "العوانات",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "العوانات",
+"en_name": "Awanat"
+},
+{
+"id": 132,
+"name": "العين",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "العين",
+"en_name": "Al Ain"
+},
+{
+"id": 546,
+"name": "الغافية",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "الغافية",
+"en_name": "Ghafia"
+},
+{
+"id": 551,
+"name": "الغبيبة",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "الغبيبة",
+"en_name": "Ghubaiba"
+},
+{
+"id": 554,
+"name": "الغرفة",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "الغرفة",
+"en_name": "Ghurfah"
+},
+{
+"id": 131,
+"name": "الفجيرة",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "الفجيرة",
+"en_name": "Fujairah"
+},
+{
+"id": 544,
+"name": "الفرفار",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "الفرفار",
+"en_name": "Furfar"
+},
+{
+"id": 401,
+"name": "الفلج",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "الفلج",
+"en_name": "Al Falaj"
+},
+{
+"id": 402,
+"name": "الفلية",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "الفلية",
+"en_name": "Al Fulayyah"
+},
+{
+"id": 400,
+"name": "الفيحاء",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "الفيحاء",
+"en_name": "Al Fahiya"
+},
+{
+"id": 708,
+"name": "القاسمية",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "القاسمية",
+"en_name": "Qasimiya"
+},
+{
+"id": 441,
+"name": "القوز",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "القوز",
+"en_name": "Al Qouz"
+},
+{
+"id": 611,
+"name": "الكرامة",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "الكرامة",
+"en_name": "Karama"
+},
+{
+"id": 644,
+"name": "المجرة",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "المجرة",
+"en_name": "Majjarah"
+},
+{
+"id": 429,
+"name": "المرفأ",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "المرفأ",
+"en_name": "Al Marfa"
+},
+{
+"id": 1271,
+"name": "المزهر",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "المزهر",
+"en_name": "MIZHER"
+},
+{
+"id": 679,
+"name": "المشرف",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "المشرف",
+"en_name": "Mushrif"
+},
+{
+"id": 637,
+"name": "المفرق",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "المفرق",
+"en_name": "Mafraq"
+},
+{
+"id": 428,
+"name": "المقطع",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "المقطع",
+"en_name": "Al Maqta"
+},
+{
+"id": 427,
+"name": "المناخ",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "المناخ",
+"en_name": "Al Manak"
+},
+{
+"id": 1273,
+"name": "المنامة",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "المنامة",
+"en_name": "Al Manamah"
+},
+{
+"id": 648,
+"name": "المنصورة",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "المنصورة",
+"en_name": "Mansoora"
+},
+{
+"id": 688,
+"name": "الناصرية",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "الناصرية",
+"en_name": "Nasariya"
+},
+{
+"id": 681,
+"name": "النبأ",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "النبأ",
+"en_name": "Nabbah"
+},
+{
+"id": 684,
+"name": "النخيل",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "النخيل",
+"en_name": "Nakheel"
+},
+{
+"id": 685,
+"name": "النخيلات",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "النخيلات",
+"en_name": "Nakheelat"
+},
+{
+"id": 409,
+"name": "الهير",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "الهير",
+"en_name": "Al Hayr"
+},
+{
+"id": 859,
+"name": "اليرموك",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "اليرموك",
+"en_name": "Yarmook"
+},
+{
+"id": 500,
+"name": "بر دبي",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "بر دبي",
+"en_name": "Bur Dubai"
+},
+{
+"id": 863,
+"name": "بطين",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "بطين",
+"en_name": "Buteen"
+},
+{
+"id": 503,
+"name": "بوطينة",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "بوطينة",
+"en_name": "Buteena"
+},
+{
+"id": 137,
+"name": "جبل علي",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "جبل علي",
+"en_name": "Jebel Ali"
+},
+{
+"id": 606,
+"name": "جميرا",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "جميرا",
+"en_name": "Jumeirah"
+},
+{
+"id": 557,
+"name": "حبشان",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "حبشان",
+"en_name": "Habshan"
+},
+{
+"id": 569,
+"name": "حتا",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "حتا",
+"en_name": "Hatta"
+},
+{
+"id": 626,
+"name": "خت",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "خت",
+"en_name": "Khatt"
+},
+{
+"id": 622,
+"name": "خنور",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "خنور",
+"en_name": "Khannur"
+},
+{
+"id": 628,
+"name": "خور خوير",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "خور خوير",
+"en_name": "Khawr Khuwayr"
+},
+{
+"id": 133,
+"name": "خور فكان",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "خور فكان",
+"en_name": "Khawr Fakkan"
+},
+{
+"id": 627,
+"name": "خور كلباء",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "خور كلباء",
+"en_name": "Khawr Kalba"
+},
+{
+"id": 520,
+"name": "دبا",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "دبا",
+"en_name": "Diba"
+},
+{
+"id": 1270,
+"name": "دبا البيعة",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "دبا البيعة",
+"en_name": "Diba Al Bay'a"
+},
+{
+"id": 138,
+"name": "دبا الحصن",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "دبا الحصن",
+"en_name": "Diba Al Hesn"
+},
+{
+"id": 126,
+"name": "دبي",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "دبي",
+"en_name": "Dubai"
+},
+{
+"id": 511,
+"name": "دسمان",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "دسمان",
+"en_name": "Dasman"
+},
+{
+"id": 514,
+"name": "ديرة",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "ديرة",
+"en_name": "Deira"
+},
+{
+"id": 130,
+"name": "رأس الخيمة",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "رأس الخيمة",
+"en_name": "Ras Al Khaimah"
+},
+{
+"id": 743,
+"name": "رولة",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "رولة",
+"en_name": "Rolla"
+},
+{
+"id": 778,
+"name": "سكمكم",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "سكمكم",
+"en_name": "Saqamqam"
+},
+{
+"id": 776,
+"name": "سمنان",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "سمنان",
+"en_name": "Samnan"
+},
+{
+"id": 823,
+"name": "سويحان",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "سويحان",
+"en_name": "Suwayhan"
+},
+{
+"id": 807,
+"name": "سيجي",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "سيجي",
+"en_name": "Siji"
+},
+{
+"id": 793,
+"name": "شرقان",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "شرقان",
+"en_name": "Sherqan"
+},
+{
+"id": 634,
+"name": "ضاحية اللية",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "ضاحية اللية",
+"en_name": "Layyah"
+},
+{
+"id": 828,
+"name": "طريف كلباء",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "طريف كلباء",
+"en_name": "Tarif Kalba"
+},
+{
+"id": 357,
+"name": "عبادلة",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "عبادلة",
+"en_name": "Abadilah"
+},
+{
+"id": 128,
+"name": "عجمان",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "عجمان",
+"en_name": "Ajman"
+},
+{
+"id": 545,
+"name": "غنتوت",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "غنتوت",
+"en_name": "Ganthoot"
+},
+{
+"id": 533,
+"name": "فلج المعلا",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "فلج المعلا",
+"en_name": "Falaj Al Mulla"
+},
+{
+"id": 714,
+"name": "قدفع",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "قدفع",
+"en_name": "Qidfa"
+},
+{
+"id": 140,
+"name": "كلباء",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "كلباء",
+"en_name": "Kalba"
+},
+{
+"id": 1275,
+"name": "مجمع الريم",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "مجمع الريم",
+"en_name": "Reem Community"
+},
+{
+"id": 524,
+"name": "مدينة دبي للإنترنت",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "مدينة دبي للإنترنت",
+"en_name": "Dubai Internet City"
+},
+{
+"id": 1272,
+"name": "مدينة محمد بن زايد",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "مدينة محمد بن زايد",
+"en_name": "MOHAMMED BIN ZAYED CITY"
+},
+{
+"id": 653,
+"name": "مسافي",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "مسافي",
+"en_name": "Masafi"
+},
+{
+"id": 136,
+"name": "مصفح",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "مصفح",
+"en_name": "Mussafah"
+},
+{
+"id": 655,
+"name": "مصفوت",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "مصفوت",
+"en_name": "Masfut"
+},
+{
+"id": 680,
+"name": "موافجة",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "موافجة",
+"en_name": "Muwafja"
+},
+{
+"id": 643,
+"name": "ميسلون",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "ميسلون",
+"en_name": "Maisaloon"
+},
+{
+"id": 663,
+"name": "ميناء الصفوح",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "ميناء الصفوح",
+"en_name": "Mina Sufooh "
+},
+{
+"id": 849,
+"name": "وادي شي",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "وادي شي",
+"en_name": "Wadi Shi"
+},
+{
+"id": 852,
+"name": "واسط",
+"priority": 0,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "واسط",
+"en_name": "Wasit"
+},
+{
+"id": 1302,
+"name": "أخرى",
+"priority": -1,
+"country_id": 2,
+"country_name": "الإمارات العربية المتحدة",
+"country_code": "AE",
+"ar_name": "أخرى",
+"en_name": "Other"
+}
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 864,
+    "name": "بريطانيا",
+    "priority": 0,
+    "country_id": 30,
+    "country_name": "المملكة المتحدة",
+    "country_code": "GB",
+    "ar_name": "بريطانيا",
+    "en_name": "United Kingdom"
+  },
+  {
+    "id": 972,
+    "name": "لندن",
+    "priority": 0,
+    "country_id": 30,
+    "country_name": "المملكة المتحدة",
+    "country_code": "GB",
+    "ar_name": "لندن",
+    "en_name": "London"
+  },
+  {
+    "id": 1378,
+    "name": "أخرى",
+    "priority": -1,
+    "country_id": 30,
+    "country_name": "المملكة المتحدة",
+    "country_code": "GB",
+    "ar_name": "أخرى",
+    "en_name": "Other"
+  }
+]

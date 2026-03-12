@@ -1,0 +1,22 @@
+[
+  {
+    "id": 978,
+    "name": "تونس",
+    "priority": 0,
+    "country_id": 9,
+    "country_name": "تونس",
+    "country_code": "TN",
+    "ar_name": "تونس",
+    "en_name": "Tunis"
+  },
+  {
+    "id": 1525,
+    "name": "أخرى",
+    "priority": -1,
+    "country_id": 9,
+    "country_name": "تونس",
+    "country_code": "TN",
+    "ar_name": "أخرى",
+    "en_name": "Other"
+  }
+]

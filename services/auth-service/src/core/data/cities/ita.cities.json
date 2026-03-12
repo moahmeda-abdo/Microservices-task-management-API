@@ -1,0 +1,42 @@
+[
+  {
+    "id": 942,
+    "name": "روما",
+    "priority": 0,
+    "country_id": 23,
+    "country_name": "إيطاليا",
+    "country_code": "IT",
+    "ar_name": "روما",
+    "en_name": "Rome"
+  },
+  {
+    "id": 943,
+    "name": "ميلان",
+    "priority": 0,
+    "country_id": 23,
+    "country_name": "إيطاليا",
+    "country_code": "IT",
+    "ar_name": "ميلان",
+    "en_name": "Milan"
+  },
+  {
+    "id": 944,
+    "name": "نابولي",
+    "priority": 0,
+    "country_id": 23,
+    "country_name": "إيطاليا",
+    "country_code": "IT",
+    "ar_name": "نابولي",
+    "en_name": "Naples"
+  },
+  {
+    "id": 1412,
+    "name": "أخرى",
+    "priority": -1,
+    "country_id": 23,
+    "country_name": "إيطاليا",
+    "country_code": "IT",
+    "ar_name": "أخرى",
+    "en_name": "Other"
+  }
+]

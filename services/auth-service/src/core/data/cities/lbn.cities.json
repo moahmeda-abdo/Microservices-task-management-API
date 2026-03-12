@@ -1,0 +1,22 @@
+[
+  {
+    "id": 980,
+    "name": "بيروت",
+    "priority": 0,
+    "country_id": 8,
+    "country_name": "لبنان",
+    "country_code": "LB",
+    "ar_name": "بيروت",
+    "en_name": "Beirut"
+  },
+  {
+    "id": 1429,
+    "name": "أخرى",
+    "priority": -1,
+    "country_id": 8,
+    "country_name": "لبنان",
+    "country_code": "LB",
+    "ar_name": "أخرى",
+    "en_name": "Other"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 975,
+    "name": "عمان",
+    "priority": 0,
+    "country_id": 7,
+    "country_name": "الأردن",
+    "country_code": "JO",
+    "ar_name": "عمان",
+    "en_name": "Amman"
+  },
+  {
+    "id": 1415,
+    "name": "أخرى",
+    "priority": -1,
+    "country_id": 7,
+    "country_name": "الأردن",
+    "country_code": "JO",
+    "ar_name": "أخرى",
+    "en_name": "Other"
+  }
+]

@@ -1,0 +1,18 @@
+import { Router } from "express";
+import { Middleware } from "@common/types.common";
+{{#if includeValidation}}
+import { JOIValidateRequest } from "@core/middleware/validation";
+import { {{pascalCase name}}ValidationSchema } from "./validations/{{snakeCase name}}.validation";
+{{/if}}
+const router = Router();
+
+const Controller: Middleware = async (req, res) => {
+  // TODO: Implement logic
+
+  res.status(200).json({ status: 200, data: { message: "success"} });
+
+};
+
+router.{{httpMethod}}("/{{dashCase name}}", {{#if includeValidation}}JOIValidateRequest({{pascalCase name}}ValidationSchema), {{/if}}Controller);
+
+export { router as {{pascalCase name}}Route };

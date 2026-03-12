@@ -1,0 +1,45 @@
+import { Router} from "express";
+{{#if authRequired}}
+import { AuthRequired } from "@core/middleware/auth/auth-required.middleware";
+{{/if}}
+{{#if userType}}
+import { RequireUserType } from "@core/middleware/auth/require-user-type.middleware";
+{{/if}}
+{{#if userRole}}
+import { RequireUserRole } from "@core/middleware/auth/require-user-role.middleware";
+{{/if}}
+import { Create{{properCase name}}Data } from "@models/{{snakeCase name}}/interfaces/{{snakeCase name}}_document.interface";
+import { {{properCase name}} } from "@models/{{snakeCase name}}/{{snakeCase name}}.model";
+import { Middleware } from "@common/types.common";
+import { JOIValidateRequest } from "@core/middleware/validation/joi-validate-request.middleware";
+import { Create{{properCase name}}ValidationSchema } from "./validation/create_{{snakeCase name}}.validation";
+const router = Router();
+
+const Create{{properCase name}}Controller: Middleware = async (req, res) => {
+  const data = req.body as RequestData;
+
+  const buildData: Create{{properCase name}}Data = {}
+ 
+  const {{camelCase name}} = {{properCase name}}.build(buildData);
+  await {{camelCase name}}.save();
+  res.status(201).json({
+    status: 201,
+    data: {{camelCase name}},
+  });
+};
+
+router.post(
+  "/",
+  {{#if authRequired}}
+  AuthRequired,
+  {{/if}}
+  {{#if userType}}
+  RequireUserType("{{userType}}"),
+  {{/if}}
+  JOIValidateRequest(Create{{properCase name}}ValidationSchema),
+  Create{{properCase name}}Controller
+);
+
+export { router as Create{{properCase name}}Route };
+
+interface RequestData extends Omit<Create{{properCase name}}Data, ""> {}

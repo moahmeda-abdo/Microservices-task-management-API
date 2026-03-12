@@ -1,0 +1,1442 @@
+[
+  {
+    "id": 365,
+    "name": "أبرق خيطان",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "أبرق خيطان",
+    "en_name": "Abraq Khaitan"
+  },
+  {
+    "id": 1107,
+    "name": "أبو الحصانية",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "أبو الحصانية",
+    "en_name": "Abu Hasaniya"
+  },
+  {
+    "id": 1109,
+    "name": "أبو حليفة",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "أبو حليفة",
+    "en_name": "Abu Halifa"
+  },
+  {
+    "id": 1108,
+    "name": "أبو فطيرة",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "أبو فطيرة",
+    "en_name": "Abu Fatira"
+  },
+  {
+    "id": 840,
+    "name": "أم العيش",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "أم العيش",
+    "en_name": "Umm Al Aish"
+  },
+  {
+    "id": 842,
+    "name": "أم الهيمان",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "أم الهيمان",
+    "en_name": "Umm Hayman"
+  },
+  {
+    "id": 838,
+    "name": "أم صدة",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "أم صدة",
+    "en_name": "Um Seddah"
+  },
+  {
+    "id": 465,
+    "name": "أمغرة",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "أمغرة",
+    "en_name": "Amgara"
+  },
+  {
+    "id": 1122,
+    "name": "إشبيلية",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "إشبيلية",
+    "en_name": "Ishbiliya"
+  },
+  {
+    "id": 219,
+    "name": "الأحمدي",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "الأحمدي",
+    "en_name": "Al Ahmadi"
+  },
+  {
+    "id": 469,
+    "name": "الأندلس",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "الأندلس",
+    "en_name": "Andalous"
+  },
+  {
+    "id": 1110,
+    "name": "البدع",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "البدع",
+    "en_name": "Al-Bidea"
+  },
+  {
+    "id": 585,
+    "name": "الجابرية",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "الجابرية",
+    "en_name": "Jabriya"
+  },
+  {
+    "id": 220,
+    "name": "الجهراء",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "الجهراء",
+    "en_name": "Al Jahra"
+  },
+  {
+    "id": 407,
+    "name": "الحساوي",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "الحساوي",
+    "en_name": "Al Hasawi"
+  },
+  {
+    "id": 620,
+    "name": "الخالدية",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "الخالدية",
+    "en_name": "Khaldiya"
+  },
+  {
+    "id": 618,
+    "name": "الخيران",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "الخيران",
+    "en_name": "Khairan"
+  },
+  {
+    "id": 509,
+    "name": "الدسمة",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "الدسمة",
+    "en_name": "Dasma"
+  },
+  {
+    "id": 505,
+    "name": "الدعية",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "الدعية",
+    "en_name": "Daiya"
+  },
+  {
+    "id": 1118,
+    "name": "الدوحة",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "الدوحة",
+    "en_name": "Doha"
+  },
+  {
+    "id": 726,
+    "name": "الربيعة",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "الربيعة",
+    "en_name": "Rabiya"
+  },
+  {
+    "id": 738,
+    "name": "الرحاب",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "الرحاب",
+    "en_name": "Rehab"
+  },
+  {
+    "id": 1113,
+    "name": "الرقة",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "الرقة",
+    "en_name": "Al-Riqqa"
+  },
+  {
+    "id": 737,
+    "name": "الرقعي",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "الرقعي",
+    "en_name": "Regiee"
+  },
+  {
+    "id": 746,
+    "name": "الرميثية",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "الرميثية",
+    "en_name": "Rumaithia"
+  },
+  {
+    "id": 747,
+    "name": "الرميثية",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "الرميثية",
+    "en_name": "Rumaithiya"
+  },
+  {
+    "id": 735,
+    "name": "الروضة",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "الروضة",
+    "en_name": "Rawda"
+  },
+  {
+    "id": 728,
+    "name": "الري",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "الري",
+    "en_name": "Rai"
+  },
+  {
+    "id": 861,
+    "name": "الزهراء",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "الزهراء",
+    "en_name": "Zahra"
+  },
+  {
+    "id": 461,
+    "name": "الزور",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "الزور",
+    "en_name": "Al Zour"
+  },
+  {
+    "id": 451,
+    "name": "السالمي",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "السالمي",
+    "en_name": "Al Salmi"
+  },
+  {
+    "id": 774,
+    "name": "السالمية",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "السالمية",
+    "en_name": "Salmiya"
+  },
+  {
+    "id": 822,
+    "name": "السرة",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "السرة",
+    "en_name": "Surra"
+  },
+  {
+    "id": 769,
+    "name": "السلام",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "السلام",
+    "en_name": "Al Salam"
+  },
+  {
+    "id": 456,
+    "name": "السور",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "السور",
+    "en_name": "Al Soor"
+  },
+  {
+    "id": 789,
+    "name": "الشامية",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "الشامية",
+    "en_name": "Shamiya"
+  },
+  {
+    "id": 452,
+    "name": "الشدادية",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "الشدادية",
+    "en_name": "Al Shadadiya"
+  },
+  {
+    "id": 782,
+    "name": "الشعب",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "الشعب",
+    "en_name": "Shaab"
+  },
+  {
+    "id": 796,
+    "name": "الشعيبة",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "الشعيبة",
+    "en_name": "Shuaiba"
+  },
+  {
+    "id": 1147,
+    "name": "الشهداء",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "الشهداء",
+    "en_name": "Shuhada"
+  },
+  {
+    "id": 798,
+    "name": "الشويخ",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "الشويخ",
+    "en_name": "Shuawaikh"
+  },
+  {
+    "id": 1149,
+    "name": "الشويخ السكنية",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "الشويخ السكنية",
+    "en_name": "Shuwaikh Residential"
+  },
+  {
+    "id": 770,
+    "name": "الصالحية",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "الصالحية",
+    "en_name": "Salhiya"
+  },
+  {
+    "id": 1115,
+    "name": "الصباحية",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "الصباحية",
+    "en_name": "Assabahiyah"
+  },
+  {
+    "id": 814,
+    "name": "الصبية",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "الصبية",
+    "en_name": "Subiya"
+  },
+  {
+    "id": 1114,
+    "name": "الصديق",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "الصديق",
+    "en_name": "Al-Siddeeq"
+  },
+  {
+    "id": 816,
+    "name": "الصليبية",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "الصليبية",
+    "en_name": "Sulaibiya"
+  },
+  {
+    "id": 815,
+    "name": "الصليبيخات",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "الصليبيخات",
+    "en_name": "Sulaibikhat"
+  },
+  {
+    "id": 1111,
+    "name": "الضجيج",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "الضجيج",
+    "en_name": "Al-Dajeej"
+  },
+  {
+    "id": 516,
+    "name": "الظهر",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "الظهر",
+    "en_name": "Dhaher"
+  },
+  {
+    "id": 474,
+    "name": "العارضية",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "العارضية",
+    "en_name": "Ardiya"
+  },
+  {
+    "id": 475,
+    "name": "العارضية الصناعية",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "العارضية الصناعية",
+    "en_name": "Ardiya Industrial"
+  },
+  {
+    "id": 358,
+    "name": "العباسية",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "العباسية",
+    "en_name": "Abbasiyah"
+  },
+  {
+    "id": 359,
+    "name": "العبدلي",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "العبدلي",
+    "en_name": "Abdali "
+  },
+  {
+    "id": 375,
+    "name": "العدان",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "العدان",
+    "en_name": "Adan"
+  },
+  {
+    "id": 373,
+    "name": "العديلية",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "العديلية",
+    "en_name": "Adailiya"
+  },
+  {
+    "id": 527,
+    "name": "الفحيحيل",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "الفحيحيل",
+    "en_name": "Fahaheel"
+  },
+  {
+    "id": 528,
+    "name": "الفحيحيل الصناعية",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "الفحيحيل الصناعية",
+    "en_name": "Fahaheel Industrial"
+  },
+  {
+    "id": 541,
+    "name": "الفردوس",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "الفردوس",
+    "en_name": "Firdous"
+  },
+  {
+    "id": 218,
+    "name": "الفروانية",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "الفروانية",
+    "en_name": "Al Farwaniyah"
+  },
+  {
+    "id": 540,
+    "name": "الفنطاس",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "الفنطاس",
+    "en_name": "Fintas"
+  },
+  {
+    "id": 531,
+    "name": "الفيحاء",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "الفيحاء",
+    "en_name": "Faiha"
+  },
+  {
+    "id": 1131,
+    "name": "القادسية",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "القادسية",
+    "en_name": "Qadsiya"
+  },
+  {
+    "id": 721,
+    "name": "القرين",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "القرين",
+    "en_name": "Al Qarin"
+  },
+  {
+    "id": 1132,
+    "name": "القيروان",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "القيروان",
+    "en_name": "Qairawan"
+  },
+  {
+    "id": 1202,
+    "name": "القيصرية",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "القيصرية",
+    "en_name": "Al Qaysariya"
+  },
+  {
+    "id": 436,
+    "name": "المباركية",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "المباركية",
+    "en_name": "Al Mubarakyia"
+  },
+  {
+    "id": 1204,
+    "name": "المرقاب",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "المرقاب",
+    "en_name": "Mirqab"
+  },
+  {
+    "id": 1112,
+    "name": "المسايل",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "المسايل",
+    "en_name": "Al-Masayel"
+  },
+  {
+    "id": 660,
+    "name": "المسيله",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "المسيله",
+    "en_name": "Messila"
+  },
+  {
+    "id": 431,
+    "name": "المطلاع",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "المطلاع",
+    "en_name": "Al Metlaa"
+  },
+  {
+    "id": 638,
+    "name": "المقوع",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "المقوع",
+    "en_name": "Magwa"
+  },
+  {
+    "id": 646,
+    "name": "المنقف",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "المنقف",
+    "en_name": "Mangaf"
+  },
+  {
+    "id": 639,
+    "name": "المهبولة",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "المهبولة",
+    "en_name": "Mahboula"
+  },
+  {
+    "id": 695,
+    "name": "النزهة",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "النزهة",
+    "en_name": "Nuzha"
+  },
+  {
+    "id": 1128,
+    "name": "النسيم",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "النسيم",
+    "en_name": "Naseem"
+  },
+  {
+    "id": 1126,
+    "name": "النعيم",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "النعيم",
+    "en_name": "Naeem"
+  },
+  {
+    "id": 683,
+    "name": "النهضة",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "النهضة",
+    "en_name": "Nahda"
+  },
+  {
+    "id": 694,
+    "name": "النويصيب",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "النويصيب",
+    "en_name": "Nuwaiseeb"
+  },
+  {
+    "id": 1151,
+    "name": "الواحة",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "الواحة",
+    "en_name": "Waha"
+  },
+  {
+    "id": 855,
+    "name": "الوسطى",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "الوسطى",
+    "en_name": "Wousta"
+  },
+  {
+    "id": 459,
+    "name": "الوطية",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "الوطية",
+    "en_name": "Al Wetiyah"
+  },
+  {
+    "id": 850,
+    "name": "الوفرة",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "الوفرة",
+    "en_name": "Wafra"
+  },
+  {
+    "id": 860,
+    "name": "اليرموك",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "اليرموك",
+    "en_name": "Yarmouk"
+  },
+  {
+    "id": 1116,
+    "name": "بنيد القار",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "بنيد القار",
+    "en_name": "Bnied Al-Gar"
+  },
+  {
+    "id": 495,
+    "name": "بنيدر",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "بنيدر",
+    "en_name": "Bnaider"
+  },
+  {
+    "id": 488,
+    "name": "بيان",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "بيان",
+    "en_name": "Bayan"
+  },
+  {
+    "id": 1150,
+    "name": "تيماء",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "تيماء",
+    "en_name": "Taima"
+  },
+  {
+    "id": 582,
+    "name": "جابر الأحمد",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "جابر الأحمد",
+    "en_name": "Jaber Al Ahmad"
+  },
+  {
+    "id": 583,
+    "name": "جابر العلي",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "جابر العلي",
+    "en_name": "Jaber Al Ali"
+  },
+  {
+    "id": 1123,
+    "name": "جليب الشيوخ",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "جليب الشيوخ",
+    "en_name": "Jleeb Al-Shuyoukh"
+  },
+  {
+    "id": 605,
+    "name": "جليعة",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "جليعة",
+    "en_name": "Julaiya"
+  },
+  {
+    "id": 811,
+    "name": "جنوب الصباحية",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "جنوب الصباحية",
+    "en_name": "South Sabahiyah"
+  },
+  {
+    "id": 568,
+    "name": "حطين",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "حطين",
+    "en_name": "Hateen"
+  },
+  {
+    "id": 217,
+    "name": "حولي",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "حولي",
+    "en_name": "Hawally"
+  },
+  {
+    "id": 619,
+    "name": "خيطان",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "خيطان",
+    "en_name": "Khaitan"
+  },
+  {
+    "id": 1203,
+    "name": "دسمان",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "دسمان",
+    "en_name": "Dasman"
+  },
+  {
+    "id": 736,
+    "name": "روضتين",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "روضتين",
+    "en_name": "Rawdatain"
+  },
+  {
+    "id": 1206,
+    "name": "سبحان",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "سبحان",
+    "en_name": "Sabhan"
+  },
+  {
+    "id": 1140,
+    "name": "سعد العبدالله",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "سعد العبدالله",
+    "en_name": "Saad Al Abdullah Al Jahra"
+  },
+  {
+    "id": 1146,
+    "name": "سلوى",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "سلوى",
+    "en_name": "Salwa"
+  },
+  {
+    "id": 791,
+    "name": "شرق",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "شرق",
+    "en_name": "Sharq"
+  },
+  {
+    "id": 1129,
+    "name": "شمال غرب الصليبيخات",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "شمال غرب الصليبيخات",
+    "en_name": "North West Sulaibikhat"
+  },
+  {
+    "id": 761,
+    "name": "صابرية",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "صابرية",
+    "en_name": "Sabriya"
+  },
+  {
+    "id": 752,
+    "name": "صباح الأحمد",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "صباح الأحمد",
+    "en_name": "Sabah Al Ahmad"
+  },
+  {
+    "id": 756,
+    "name": "صباح السالم",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "صباح السالم",
+    "en_name": "Sabah Al Salem"
+  },
+  {
+    "id": 755,
+    "name": "صباح الناصر",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "صباح الناصر",
+    "en_name": "Sabah Al Nasser"
+  },
+  {
+    "id": 765,
+    "name": "صفاة",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "صفاة",
+    "en_name": "Safat"
+  },
+  {
+    "id": 780,
+    "name": "صوابر",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "صوابر",
+    "en_name": "Sawaber"
+  },
+  {
+    "id": 1105,
+    "name": "عبدالله السالم",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "عبدالله السالم",
+    "en_name": "Abdullah al-Salem"
+  },
+  {
+    "id": 1106,
+    "name": "عبدالله المبارك الصباح",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "عبدالله المبارك الصباح",
+    "en_name": "Abdulla Al Mubarak Al Sabah"
+  },
+  {
+    "id": 1119,
+    "name": "عقيلة",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "عقيلة",
+    "en_name": "Eqaila"
+  },
+  {
+    "id": 462,
+    "name": "علي صباح السالم",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "علي صباح السالم",
+    "en_name": "Ali Sabah Al Salem"
+  },
+  {
+    "id": 697,
+    "name": "عمرية",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "عمرية",
+    "en_name": "Omariya"
+  },
+  {
+    "id": 1130,
+    "name": "عيون",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "عيون",
+    "en_name": "Ayoun"
+  },
+  {
+    "id": 556,
+    "name": "غرناطة",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "غرناطة",
+    "en_name": "Granada"
+  },
+  {
+    "id": 1121,
+    "name": "فنيطيس",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "فنيطيس",
+    "en_name": "Fnaitees"
+  },
+  {
+    "id": 1120,
+    "name": "فهد الأحمد",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "فهد الأحمد",
+    "en_name": "Fahad Al Ahmad"
+  },
+  {
+    "id": 1134,
+    "name": "قبلة",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "قبلة",
+    "en_name": "Qiblah"
+  },
+  {
+    "id": 716,
+    "name": "قرطبة",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "قرطبة",
+    "en_name": "Qortoba"
+  },
+  {
+    "id": 1133,
+    "name": "قصر",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "قصر",
+    "en_name": "Qasr"
+  },
+  {
+    "id": 725,
+    "name": "قصور",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "قصور",
+    "en_name": "Qusor"
+  },
+  {
+    "id": 615,
+    "name": "كاظمة",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "كاظمة",
+    "en_name": "Kazma"
+  },
+  {
+    "id": 607,
+    "name": "كبد",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "كبد",
+    "en_name": "Kabd"
+  },
+  {
+    "id": 608,
+    "name": "كيفان",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "كيفان",
+    "en_name": "Kaifan"
+  },
+  {
+    "id": 221,
+    "name": "مبارك الكبير",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "مبارك الكبير",
+    "en_name": "Mubarak Al-Kabeer"
+  },
+  {
+    "id": 216,
+    "name": "مدينة الكويت",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "مدينة الكويت",
+    "en_name": "Kuwait City"
+  },
+  {
+    "id": 420,
+    "name": "مدينة لؤلؤة الخيران",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "مدينة لؤلؤة الخيران",
+    "en_name": "Al Khiran Pearl City"
+  },
+  {
+    "id": 666,
+    "name": "مشرف",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "مشرف",
+    "en_name": "Mishref"
+  },
+  {
+    "id": 633,
+    "name": "مطار الكويت الدولي",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "مطار الكويت الدولي",
+    "en_name": "Kuwait International Airport"
+  },
+  {
+    "id": 650,
+    "name": "منصورية",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "منصورية",
+    "en_name": "Mansouriya"
+  },
+  {
+    "id": 467,
+    "name": "منطقة أمغرة الصناعية",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "منطقة أمغرة الصناعية",
+    "en_name": "Amghara Industrial Area"
+  },
+  {
+    "id": 588,
+    "name": "منطقة الجهراء الصناعية",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "منطقة الجهراء الصناعية",
+    "en_name": "Jahra Industrial Area"
+  },
+  {
+    "id": 797,
+    "name": "منطقة الشعيبة الصناعية",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "منطقة الشعيبة الصناعية",
+    "en_name": "Shuaiba Industrial Area"
+  },
+  {
+    "id": 800,
+    "name": "منطقة الشويخ التعليمية",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "منطقة الشويخ التعليمية",
+    "en_name": "Shuwaikh Education Area"
+  },
+  {
+    "id": 801,
+    "name": "منطقة الشويخ الصحية",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "منطقة الشويخ الصحية",
+    "en_name": "Shuwaikh Health Area"
+  },
+  {
+    "id": 1148,
+    "name": "منطقة الشويخ الصناعية",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "منطقة الشويخ الصناعية",
+    "en_name": "Shuwaikh Industrial Area"
+  },
+  {
+    "id": 818,
+    "name": "منطقة الصليبية الصناعية",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "منطقة الصليبية الصناعية",
+    "en_name": "Sulaibiyah Industrial Area"
+  },
+  {
+    "id": 1125,
+    "name": "منطقة مبارك العبدالله الجابر",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "منطقة مبارك العبدالله الجابر",
+    "en_name": "Mubarak Al-Abdullah"
+  },
+  {
+    "id": 642,
+    "name": "ميدان حولي",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "ميدان حولي",
+    "en_name": "Maidan Hawalliy"
+  },
+  {
+    "id": 803,
+    "name": "ميناء الشويخ",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "ميناء الشويخ",
+    "en_name": "Shuwaikh Port"
+  },
+  {
+    "id": 363,
+    "name": "ميناء عبدالله",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "ميناء عبدالله",
+    "en_name": "Abdulla Port"
+  },
+  {
+    "id": 558,
+    "name": "هدية",
+    "priority": 0,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "هدية",
+    "en_name": "Hadiya"
+  },
+  {
+    "id": 1425,
+    "name": "أخرى",
+    "priority": -1,
+    "country_id": 3,
+    "country_name": "الكويت",
+    "country_code": "KW",
+    "ar_name": "أخرى",
+    "en_name": "Other"
+  }
+]

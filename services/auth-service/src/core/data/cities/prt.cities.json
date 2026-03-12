@@ -1,0 +1,42 @@
+[
+  {
+    "id": 962,
+    "name": "براغا",
+    "priority": 0,
+    "country_id": 25,
+    "country_name": "البرتغال",
+    "country_code": "PT",
+    "ar_name": "براغا",
+    "en_name": "Braga"
+  },
+  {
+    "id": 961,
+    "name": "بورتو",
+    "priority": 0,
+    "country_id": 25,
+    "country_name": "البرتغال",
+    "country_code": "PT",
+    "ar_name": "بورتو",
+    "en_name": "Porto"
+  },
+  {
+    "id": 960,
+    "name": "لشبونة",
+    "priority": 0,
+    "country_id": 25,
+    "country_name": "البرتغال",
+    "country_code": "PT",
+    "ar_name": "لشبونة",
+    "en_name": "Lisbon"
+  },
+  {
+    "id": 1486,
+    "name": "أخرى",
+    "priority": -1,
+    "country_id": 25,
+    "country_name": "البرتغال",
+    "country_code": "PT",
+    "ar_name": "أخرى",
+    "en_name": "Other"
+  }
+]

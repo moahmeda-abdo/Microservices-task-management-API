@@ -1,0 +1,8 @@
+import { Router } from "express";
+import { {{pascalCase name}}Route } from "./{{snakeCase name}}.route";
+
+const router = Router();
+
+router.use({{pascalCase name}}Route);
+
+export { router as {{exportName}} }

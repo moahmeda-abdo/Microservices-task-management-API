@@ -1,0 +1,22 @@
+[
+  {
+    "id": 974,
+    "name": "أوتاوا",
+    "priority": 0,
+    "country_id": 17,
+    "country_name": "كندا",
+    "country_code": "CA",
+    "ar_name": "أوتاوا",
+    "en_name": "Ottawa"
+  },
+  {
+    "id": 1339,
+    "name": "أخرى",
+    "priority": -1,
+    "country_id": 17,
+    "country_name": "كندا",
+    "country_code": "CA",
+    "ar_name": "أخرى",
+    "en_name": "Other"
+  }
+]

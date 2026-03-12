@@ -1,0 +1,272 @@
+ [
+    {
+      "id": 993,
+      "name": "أريزونا",
+      "priority": 0,
+      "country_id": 31,
+      "country_name": "الولايات المتحدة",
+      "country_code": "US",
+      "ar_name": "أريزونا",
+      "en_name": "Arizona"
+    },
+    {
+      "id": 1002,
+      "name": "ألاباما",
+      "priority": 0,
+      "country_id": 31,
+      "country_name": "الولايات المتحدة",
+      "country_code": "US",
+      "ar_name": "ألاباما",
+      "en_name": "Alabama"
+    },
+    {
+      "id": 1005,
+      "name": "ألاسكا",
+      "priority": 0,
+      "country_id": 31,
+      "country_name": "الولايات المتحدة",
+      "country_code": "US",
+      "ar_name": "ألاسكا",
+      "en_name": "Alaska"
+    },
+    {
+      "id": 1001,
+      "name": "أوكلاهوما",
+      "priority": 0,
+      "country_id": 31,
+      "country_name": "الولايات المتحدة",
+      "country_code": "US",
+      "ar_name": "أوكلاهوما",
+      "en_name": "Oklahoma"
+    },
+    {
+      "id": 987,
+      "name": "أوهايو",
+      "priority": 0,
+      "country_id": 31,
+      "country_name": "الولايات المتحدة",
+      "country_code": "US",
+      "ar_name": "أوهايو",
+      "en_name": "Ohio"
+    },
+    {
+      "id": 986,
+      "name": "إلينوي",
+      "priority": 0,
+      "country_id": 31,
+      "country_name": "الولايات المتحدة",
+      "country_code": "US",
+      "ar_name": "إلينوي",
+      "en_name": "Illinois"
+    },
+    {
+      "id": 996,
+      "name": "إنديانا",
+      "priority": 0,
+      "country_id": 31,
+      "country_name": "الولايات المتحدة",
+      "country_code": "US",
+      "ar_name": "إنديانا",
+      "en_name": "Indiana"
+    },
+    {
+      "id": 985,
+      "name": "بنسيلفانيا",
+      "priority": 0,
+      "country_id": 31,
+      "country_name": "الولايات المتحدة",
+      "country_code": "US",
+      "ar_name": "بنسيلفانيا",
+      "en_name": "Pennsylvania"
+    },
+    {
+      "id": 982,
+      "name": "تكساس",
+      "priority": 0,
+      "country_id": 31,
+      "country_name": "الولايات المتحدة",
+      "country_code": "US",
+      "ar_name": "تكساس",
+      "en_name": "Texas"
+    },
+    {
+      "id": 995,
+      "name": "تينيسي",
+      "priority": 0,
+      "country_id": 31,
+      "country_name": "الولايات المتحدة",
+      "country_code": "US",
+      "ar_name": "تينيسي",
+      "en_name": "Tennessee"
+    },
+    {
+      "id": 988,
+      "name": "جورجيا",
+      "priority": 0,
+      "country_id": 31,
+      "country_name": "الولايات المتحدة",
+      "country_code": "US",
+      "ar_name": "جورجيا",
+      "en_name": "Georgia"
+    },
+    {
+      "id": 992,
+      "name": "فرجينيا",
+      "priority": 0,
+      "country_id": 31,
+      "country_name": "الولايات المتحدة",
+      "country_code": "US",
+      "ar_name": "فرجينيا",
+      "en_name": "Virginia"
+    },
+    {
+      "id": 983,
+      "name": "فلوريدا",
+      "priority": 0,
+      "country_id": 31,
+      "country_name": "الولايات المتحدة",
+      "country_code": "US",
+      "ar_name": "فلوريدا",
+      "en_name": "Florida"
+    },
+    {
+      "id": 1000,
+      "name": "كارولاينا الجنوبية",
+      "priority": 0,
+      "country_id": 31,
+      "country_name": "الولايات المتحدة",
+      "country_code": "US",
+      "ar_name": "كارولاينا الجنوبية",
+      "en_name": "South Carolina"
+    },
+    {
+      "id": 989,
+      "name": "كارولاينا الشمالية",
+      "priority": 0,
+      "country_id": 31,
+      "country_name": "الولايات المتحدة",
+      "country_code": "US",
+      "ar_name": "كارولاينا الشمالية",
+      "en_name": "North Carolina"
+    },
+    {
+      "id": 981,
+      "name": "كاليفورنيا",
+      "priority": 0,
+      "country_id": 31,
+      "country_name": "الولايات المتحدة",
+      "country_code": "US",
+      "ar_name": "كاليفورنيا",
+      "en_name": "California"
+    },
+    {
+      "id": 998,
+      "name": "ماريلاند",
+      "priority": 0,
+      "country_id": 31,
+      "country_name": "الولايات المتحدة",
+      "country_code": "US",
+      "ar_name": "ماريلاند",
+      "en_name": "Maryland"
+    },
+    {
+      "id": 994,
+      "name": "ماساتشوستس",
+      "priority": 0,
+      "country_id": 31,
+      "country_name": "الولايات المتحدة",
+      "country_code": "US",
+      "ar_name": "ماساتشوستس",
+      "en_name": "Massachusetts"
+    },
+    {
+      "id": 997,
+      "name": "ميزوري",
+      "priority": 0,
+      "country_id": 31,
+      "country_name": "الولايات المتحدة",
+      "country_code": "US",
+      "ar_name": "ميزوري",
+      "en_name": "Missouri"
+    },
+    {
+      "id": 990,
+      "name": "ميشيغان",
+      "priority": 0,
+      "country_id": 31,
+      "country_name": "الولايات المتحدة",
+      "country_code": "US",
+      "ar_name": "ميشيغان",
+      "en_name": "Michigan"
+    },
+    {
+      "id": 991,
+      "name": "نيو جيرسي",
+      "priority": 0,
+      "country_id": 31,
+      "country_name": "الولايات المتحدة",
+      "country_code": "US",
+      "ar_name": "نيو جيرسي",
+      "en_name": "New Jersey"
+    },
+    {
+      "id": 1003,
+      "name": "نيومكسيكو",
+      "priority": 0,
+      "country_id": 31,
+      "country_name": "الولايات المتحدة",
+      "country_code": "US",
+      "ar_name": "نيومكسيكو",
+      "en_name": "New Mexico"
+    },
+    {
+      "id": 984,
+      "name": "نيويورك",
+      "priority": 0,
+      "country_id": 31,
+      "country_name": "الولايات المتحدة",
+      "country_code": "US",
+      "ar_name": "نيويورك",
+      "en_name": "New York"
+    },
+    {
+      "id": 1004,
+      "name": "هاواي",
+      "priority": 0,
+      "country_id": 31,
+      "country_name": "الولايات المتحدة",
+      "country_code": "US",
+      "ar_name": "هاواي",
+      "en_name": "Hawaii"
+    },
+    {
+      "id": 969,
+      "name": "واشنطن",
+      "priority": 0,
+      "country_id": 31,
+      "country_name": "الولايات المتحدة",
+      "country_code": "US",
+      "ar_name": "واشنطن",
+      "en_name": "Washington"
+    },
+    {
+      "id": 999,
+      "name": "ويسكونسن",
+      "priority": 0,
+      "country_id": 31,
+      "country_name": "الولايات المتحدة",
+      "country_code": "US",
+      "ar_name": "ويسكونسن",
+      "en_name": "Wisconsin"
+    },
+    {
+      "id": 1535,
+      "name": "أخرى",
+      "priority": -1,
+      "country_id": 31,
+      "country_name": "الولايات المتحدة",
+      "country_code": "US",
+      "ar_name": "أخرى",
+      "en_name": "Other"
+    }
+  ]

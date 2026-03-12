@@ -1,0 +1,44 @@
+{{#if authRequired}}
+import { AuthRequired } from "@core/middleware/auth/auth-required.middleware";
+{{/if}}
+{{#if userType}}
+import { RequireUserType } from "@core/middleware/auth/require-user-type.middleware";
+{{/if}}
+{{#if userRole}}
+import { RequireUserRole } from "@core/middleware/auth/require-user-role.middleware";
+{{/if}}
+
+import { Router } from 'express';
+
+import { {{properCase name}} } from '@models/{{snakeCase name}}/{{snakeCase name}}.model';
+
+import { JOIValidateRequest } from "@core/middleware/validation/joi-validate-request.middleware";
+import {ObjectIdRouteParamsValidationSchema} from "@common/validation/route_params.validation"
+
+import { NotFoundError } from '@core/errors/not-found.error';
+import { Middleware } from "@common/types.common";
+
+
+const router =Router();
+
+
+const {{properCase name}}DetailsController: Middleware = async (req, res) => {
+	const id = req.params.id;
+	const {{snakeCase name}} = await {{properCase name}}.findById(id).select("-is_deleted");
+	if (!{{snakeCase name}} || {{snakeCase name}}.is_deleted) throw new NotFoundError("{{properCase name}} Not Found");
+	res.status(200).json({status: 200, data: {{snakeCase name}} })
+}
+
+router.get(
+	"/:id",
+	{{#if authRequired}}
+  AuthRequired,
+  {{/if}}
+  {{#if userType}}
+  RequireUserType("{{userType}}"),
+  {{/if}}
+  JOIValidateRequest(ObjectIdRouteParamsValidationSchema, "params"),
+	{{properCase name}}DetailsController,
+)
+
+export {router as Get{{properCase name}}DetailsRoute}

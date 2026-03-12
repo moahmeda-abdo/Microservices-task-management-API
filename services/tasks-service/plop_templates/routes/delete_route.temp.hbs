@@ -1,0 +1,43 @@
+import { Router } from "express";
+
+import { {{properCase name}} } from "@models/{{snakeCase name}}/{{snakeCase name}}.model";
+
+{{#if authRequired}}
+import { AuthRequired } from "@core/middleware/auth/auth-required.middleware";
+{{/if}}
+{{#if userType}}
+import { RequireUserType } from "@core/middleware/auth/require-user-type.middleware";
+{{/if}}
+{{#if userRole}}
+import { RequireUserRole } from "@core/middleware/auth/require-user-role.middleware";
+{{/if}}
+
+
+import { JOIValidateRequest } from "@core/middleware/validation/joi-validate-request.middleware";
+
+import {ObjectIdRouteParamsValidationSchema} from "@common/validation/route_params.validation"
+
+import { Middleware } from "@common/types.common";
+import { NotFoundError } from "@core/errors/not-found.error";
+
+const router = Router();
+
+const Delete{{properCase name}}Controller:Middleware = async (req, res ) => {
+	const id =req.params.id as string; 
+	const {{camelCase name}} = await {{properCase name}}.findByIdAndUpdate(id, {is_deleted:true});
+	if (!{{camelCase name}}) throw new NotFoundError("{{camelCase name}} Not Found With Given Id");
+	res.status(204).end()
+}
+
+router.delete(
+	"/:id",
+	{{#if authRequired}}
+  AuthRequired,
+  {{/if}}
+  {{#if userType}}
+  RequireUserType("{{userType}}"),
+  {{/if}}
+  JOIValidateRequest(ObjectIdRouteParamsValidationSchema, "params"),
+	Delete{{properCase name}}Controller,
+);
+export {router as Delete{{properCase name}}Route}

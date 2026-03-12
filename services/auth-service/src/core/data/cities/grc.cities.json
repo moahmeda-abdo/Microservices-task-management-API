@@ -1,0 +1,42 @@
+[
+  {
+    "id": 951,
+    "name": "أثينا",
+    "priority": 0,
+    "country_id": 20,
+    "country_name": "اليونان",
+    "country_code": "GR",
+    "ar_name": "أثينا",
+    "en_name": "Athens"
+  },
+  {
+    "id": 953,
+    "name": "باتراس",
+    "priority": 0,
+    "country_id": 20,
+    "country_name": "اليونان",
+    "country_code": "GR",
+    "ar_name": "باتراس",
+    "en_name": "Patras"
+  },
+  {
+    "id": 952,
+    "name": "سالونيك",
+    "priority": 0,
+    "country_id": 20,
+    "country_name": "اليونان",
+    "country_code": "GR",
+    "ar_name": "سالونيك",
+    "en_name": "Thessaloniki"
+  },
+  {
+    "id": 1390,
+    "name": "أخرى",
+    "priority": -1,
+    "country_id": 20,
+    "country_name": "اليونان",
+    "country_code": "GR",
+    "ar_name": "أخرى",
+    "en_name": "Other"
+  }
+]

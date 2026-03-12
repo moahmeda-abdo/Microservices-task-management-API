@@ -1,0 +1,42 @@
+[
+  {
+    "id": 957,
+    "name": "أمستردام",
+    "priority": 0,
+    "country_id": 24,
+    "country_name": "هولندا",
+    "country_code": "NL",
+    "ar_name": "أمستردام",
+    "en_name": "Amsterdam"
+  },
+  {
+    "id": 958,
+    "name": "روتردام",
+    "priority": 0,
+    "country_id": 24,
+    "country_name": "هولندا",
+    "country_code": "NL",
+    "ar_name": "روتردام",
+    "en_name": "Rotterdam"
+  },
+  {
+    "id": 959,
+    "name": "لاهاي",
+    "priority": 0,
+    "country_id": 24,
+    "country_name": "هولندا",
+    "country_code": "NL",
+    "ar_name": "لاهاي",
+    "en_name": "The Hague"
+  },
+  {
+    "id": 1468,
+    "name": "أخرى",
+    "priority": -1,
+    "country_id": 24,
+    "country_name": "هولندا",
+    "country_code": "NL",
+    "ar_name": "أخرى",
+    "en_name": "Other"
+  }
+]

@@ -1,0 +1,219 @@
+[
+{
+"id": 1,
+"name": "السعودية",
+"code": "SA",
+"country_code": "SAU",
+"flag": "https://media.storebuilder.com/static/sa.svg"
+},
+{
+"id": 2,
+"name": "الإمارات العربية المتحدة",
+"code": "AE",
+"country_code": "ARE",
+"flag": "https://media.storebuilder.com/static/ae.svg"
+},
+{
+"id": 3,
+"name": "الكويت",
+"code": "KW",
+"country_code": "KWT",
+"flag": "https://media.storebuilder.com/static/kw.svg"
+},
+{
+"id": 4,
+"name": "عمان",
+"code": "OM",
+"country_code": "OMN",
+"flag": "https://media.storebuilder.com/static/om.svg"
+},
+{
+"id": 5,
+"name": "البحرين",
+"code": "BH",
+"country_code": "BHR",
+"flag": "https://media.storebuilder.com/static/bh.svg"
+},
+{
+"id": 6,
+"name": "مصر",
+"code": "EG",
+"country_code": "EGY",
+"flag": "https://media.storebuilder.com/static/eg.svg"
+},
+{
+"id": 7,
+"name": "الأردن",
+"code": "JO",
+"country_code": "JOR",
+"flag": "https://media.storebuilder.com/static/jo.svg"
+},
+{
+"id": 8,
+"name": "لبنان",
+"code": "LB",
+"country_code": "LBN",
+"flag": "https://media.storebuilder.com/static/lb.svg"
+},
+{
+"id": 9,
+"name": "تونس",
+"code": "TN",
+"country_code": "TUN",
+"flag": "https://media.storebuilder.com/static/tn.svg"
+},
+{
+"id": 10,
+"name": "المغرب",
+"code": "MA",
+"country_code": "MAR",
+"flag": "https://media.storebuilder.com/static/ma.svg"
+},
+{
+"id": 11,
+"name": "ليبيا",
+"code": "LY",
+"country_code": "LBY",
+"flag": "https://media.storebuilder.com/static/ly.svg"
+},
+{
+"id": 12,
+"name": "الجزائر",
+"code": "DZ",
+"country_code": "DZA",
+"flag": "https://media.storebuilder.com/static/dz.svg"
+},
+{
+"id": 13,
+"name": "ساموا الأمريكي",
+"code": "AS",
+"country_code": "ASM",
+"flag": "https://media.storebuilder.com/static/as.svg"
+},
+{
+"id": 14,
+"name": "أستراليا",
+"code": "AU",
+"country_code": "AUS",
+"flag": "https://media.storebuilder.com/static/au.svg"
+},
+{
+"id": 15,
+"name": "النمسا",
+"code": "AT",
+"country_code": "AUT",
+"flag": "https://media.storebuilder.com/static/at.svg"
+},
+{
+"id": 16,
+"name": "بلجيكا",
+"code": "BE",
+"country_code": "BEL",
+"flag": "https://media.storebuilder.com/static/be.svg"
+},
+{
+"id": 17,
+"name": "كندا",
+"code": "CA",
+"country_code": "CAN",
+"flag": "https://media.storebuilder.com/static/ca.svg"
+},
+{
+"id": 18,
+"name": "فرنسا",
+"code": "FR",
+"country_code": "FRA",
+"flag": "https://media.storebuilder.com/static/fr.svg"
+},
+{
+"id": 19,
+"name": "ألمانيا",
+"code": "DE",
+"country_code": "DEU",
+"flag": "https://media.storebuilder.com/static/de.svg"
+},
+{
+"id": 20,
+"name": "اليونان",
+"code": "GR",
+"country_code": "GRC",
+"flag": "https://media.storebuilder.com/static/gr.svg"
+},
+{
+"id": 21,
+"name": "العراق",
+"code": "IQ",
+"country_code": "IRQ",
+"flag": "https://media.storebuilder.com/static/iq.svg"
+},
+{
+"id": 22,
+"name": "جمهورية أيرلندا",
+"code": "IE",
+"country_code": "IRL",
+"flag": "https://media.storebuilder.com/static/ie.svg"
+},
+{
+"id": 23,
+"name": "إيطاليا",
+"code": "IT",
+"country_code": "ITA",
+"flag": "https://media.storebuilder.com/static/it.svg"
+},
+{
+"id": 24,
+"name": "هولندا",
+"code": "NL",
+"country_code": "NLD",
+"flag": "https://media.storebuilder.com/static/nl.svg"
+},
+{
+"id": 25,
+"name": "البرتغال",
+"code": "PT",
+"country_code": "PRT",
+"flag": "https://media.storebuilder.com/static/pt.svg"
+},
+{
+"id": 26,
+"name": "قطر",
+"code": "QA",
+"country_code": "QAT",
+"flag": "https://media.storebuilder.com/static/qa.svg"
+},
+{
+"id": 27,
+"name": "إسبانيا",
+"code": "ES",
+"country_code": "ESP",
+"flag": "https://media.storebuilder.com/static/es.svg"
+},
+{
+"id": 28,
+"name": "سويسرا",
+"code": "CH",
+"country_code": "CHE",
+"flag": "https://media.storebuilder.com/static/ch.svg"
+},
+{
+"id": 29,
+"name": "تركيا",
+"code": "TR",
+"country_code": "TUR",
+"flag": "https://media.storebuilder.com/static/tr.svg"
+},
+{
+"id": 30,
+"name": "المملكة المتحدة",
+"code": "GB",
+"country_code": "GBR",
+"flag": "https://media.storebuilder.com/static/gb.svg"
+},
+{
+"id": 31,
+"name": "الولايات المتحدة",
+"code": "US",
+"country_code": "USA",
+"flag": "https://media.storebuilder.com/static/us.svg"
+}
+]

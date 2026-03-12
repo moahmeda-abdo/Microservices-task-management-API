@@ -1,0 +1,15 @@
+import { Router } from 'express';
+import { Create{{properCase name}}Route } from './create_{{snakeCase name}}.route';
+import { Delete{{properCase name}}Route } from './delete_{{snakeCase name}}.route';
+import { Get{{properCase name}}sRoute } from './get_{{snakeCase name}}s.route';
+import { Get{{properCase name}}DetailsRoute } from './get_{{snakeCase name}}_details.route';
+import { Update{{properCase name}}Route } from './update_{{snakeCase name}}.route';
+const router = Router();
+
+router.use(Create{{properCase name}}Route);
+router.use(Update{{properCase name}}Route);
+router.use(Delete{{properCase name}}Route);
+router.use(Get{{properCase name}}sRoute);
+router.use(Get{{properCase name}}DetailsRoute);
+
+export {router as {{properCase name}}sRoutes}

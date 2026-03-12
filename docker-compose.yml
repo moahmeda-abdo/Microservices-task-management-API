@@ -1,0 +1,86 @@
+services:
+  api-gateway:
+    build:
+      context: .
+      dockerfile: ./services/api-gateway/Dockerfile
+    container_name: api-gateway
+    env_file:
+      - ./services/api-gateway/.env
+    ports:
+      - "3000:3000"
+    depends_on:
+      - auth-service
+      - users-service
+      - tasks-service
+      - notifications-service
+    restart: unless-stopped
+
+  auth-service:
+    build:
+      context: .
+      dockerfile: ./services/auth-service/Dockerfile
+    container_name: auth-service
+    env_file:
+      - ./services/auth-service/.env
+    ports:
+      - "3001:3001"
+    depends_on:
+      - rabbitmq
+    restart: unless-stopped
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+
+  users-service:
+    build:
+      context: .
+      dockerfile: ./services/users-service/Dockerfile
+    container_name: users-service
+    env_file:
+      - ./services/users-service/.env
+    ports:
+      - "3004:3004"
+    depends_on:
+      - rabbitmq
+    restart: unless-stopped
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+
+  tasks-service:
+    build:
+      context: .
+      dockerfile: ./services/tasks-service/Dockerfile
+    container_name: tasks-service
+    env_file:
+      - ./services/tasks-service/.env
+    ports:
+      - "3003:3003"
+    depends_on:
+      - rabbitmq
+    restart: unless-stopped
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+
+  notifications-service:
+    build:
+      context: .
+      dockerfile: ./services/notifications-service/Dockerfile
+    container_name: notifications-service
+    env_file:
+      - ./services/notifications-service/.env
+    ports:
+      - "3002:3002"
+    depends_on:
+      - rabbitmq
+    restart: unless-stopped
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+
+  rabbitmq:
+    image: rabbitmq:3-management
+    container_name: rabbitmq-TM
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+    restart: unless-stopped
+
+volumes: {}

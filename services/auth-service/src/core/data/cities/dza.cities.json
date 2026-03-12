@@ -1,0 +1,22 @@
+[
+  {
+    "id": 977,
+    "name": "الجزائر",
+    "priority": 0,
+    "country_id": 12,
+    "country_name": "الجزائر",
+    "country_code": "DZ",
+    "ar_name": "الجزائر",
+    "en_name": "Algiers"
+  },
+  {
+    "id": 1363,
+    "name": "أخرى",
+    "priority": -1,
+    "country_id": 12,
+    "country_name": "الجزائر",
+    "country_code": "DZ",
+    "ar_name": "أخرى",
+    "en_name": "Other"
+  }
+]

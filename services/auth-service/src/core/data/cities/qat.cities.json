@@ -1,0 +1,1332 @@
+ [
+    {
+      "id": 1253,
+      "name": "آم العمد",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "آم العمد",
+      "en_name": "Umm Al Amad"
+    },
+    {
+      "id": 170,
+      "name": "أبو الظلوف",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "أبو الظلوف",
+      "en_name": "Abu az Zuluf"
+    },
+    {
+      "id": 171,
+      "name": "أبو ثايلة",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "أبو ثايلة",
+      "en_name": "Abu Thaylah"
+    },
+    {
+      "id": 5273,
+      "name": "أبو سمره",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "أبو سمره",
+      "en_name": "Abu Samra"
+    },
+    {
+      "id": 1252,
+      "name": "أم الافاعي",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "أم الافاعي",
+      "en_name": "Umm Al Afaei"
+    },
+    {
+      "id": 1255,
+      "name": "أم الشخوط",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "أم الشخوط",
+      "en_name": "Umm al shkhot"
+    },
+    {
+      "id": 188,
+      "name": "أم باب",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "أم باب",
+      "en_name": "Umm Bab"
+    },
+    {
+      "id": 5284,
+      "name": "أم بركه",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "أم بركه",
+      "en_name": "Um Birka"
+    },
+    {
+      "id": 190,
+      "name": "أم صلال على",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "أم صلال على",
+      "en_name": "Umm Salal Ali"
+    },
+    {
+      "id": 191,
+      "name": "أم صلال محمد",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "أم صلال محمد",
+      "en_name": "Umm Salal Mohammed"
+    },
+    {
+      "id": 839,
+      "name": "أم عبيرية",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "أم عبيرية",
+      "en_name": "Umm Ebairiya"
+    },
+    {
+      "id": 5270,
+      "name": "أم غولينا",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "أم غولينا",
+      "en_name": "Umm Ghuwailina"
+    },
+    {
+      "id": 5230,
+      "name": "أم قرن",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "أم قرن",
+      "en_name": "Um Qarn"
+    },
+    {
+      "id": 5271,
+      "name": "أم لخبا",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "أم لخبا",
+      "en_name": "Umm Lekhba"
+    },
+    {
+      "id": 5231,
+      "name": "إزغاوى",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "إزغاوى",
+      "en_name": "Izghawa"
+    },
+    {
+      "id": 26,
+      "name": "الـعريش",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "الـعريش",
+      "en_name": "Al `Arish"
+    },
+    {
+      "id": 181,
+      "name": "الـمفجر",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "الـمفجر",
+      "en_name": "Al Mafjar"
+    },
+    {
+      "id": 1104,
+      "name": "البدع الشرقية",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "البدع الشرقية",
+      "en_name": "Al Bida` ash Sharqiyah"
+    },
+    {
+      "id": 186,
+      "name": "الثقب",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "الثقب",
+      "en_name": "Ath Thaqab"
+    },
+    {
+      "id": 5242,
+      "name": "الثمامه",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "الثمامه",
+      "en_name": "Al Thumama"
+    },
+    {
+      "id": 177,
+      "name": "الجسرة",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "الجسرة",
+      "en_name": "Al Jasrah"
+    },
+    {
+      "id": 178,
+      "name": "الجميلية",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "الجميلية",
+      "en_name": "Al Jumaliyah"
+    },
+    {
+      "id": 423,
+      "name": "الخاور",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "الخاور",
+      "en_name": "Al Khawr"
+    },
+    {
+      "id": 1214,
+      "name": "الخرارة",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "الخرارة",
+      "en_name": "Al Kharrara"
+    },
+    {
+      "id": 1215,
+      "name": "الخرساة",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "الخرساة",
+      "en_name": "Al Kharsaah"
+    },
+    {
+      "id": 5276,
+      "name": "الخريطيات",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "الخريطيات",
+      "en_name": "Al Kharaitiyat"
+    },
+    {
+      "id": 1212,
+      "name": "الخليفة",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "الخليفة",
+      "en_name": "Al Khalifat"
+    },
+    {
+      "id": 1216,
+      "name": "الخواير",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "الخواير",
+      "en_name": "Al Khuwayr"
+    },
+    {
+      "id": 180,
+      "name": "الخور",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "الخور",
+      "en_name": "Al Khor"
+    },
+    {
+      "id": 5227,
+      "name": "الدحيل",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "الدحيل",
+      "en_name": "Al Duhail"
+    },
+    {
+      "id": 5226,
+      "name": "الدفنه",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "الدفنه",
+      "en_name": "Al Dafna"
+    },
+    {
+      "id": 169,
+      "name": "الدوحة",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "الدوحة",
+      "en_name": "Doha"
+    },
+    {
+      "id": 172,
+      "name": "الدوحة الجديدة",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "الدوحة الجديدة",
+      "en_name": "Ad Dawhah al Jadidah"
+    },
+    {
+      "id": 1207,
+      "name": "الذخيرة",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "الذخيرة",
+      "en_name": "Al Dhakira"
+    },
+    {
+      "id": 1241,
+      "name": "الراكيات",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "الراكيات",
+      "en_name": "Ar Rakiyat"
+    },
+    {
+      "id": 5244,
+      "name": "الرميله",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "الرميله",
+      "en_name": "Al Rumaila"
+    },
+    {
+      "id": 1238,
+      "name": "الرويس",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "الرويس",
+      "en_name": "Ar Ru'ays"
+    },
+    {
+      "id": 184,
+      "name": "الريان",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "الريان",
+      "en_name": "Al Rayyan Municipality"
+    },
+    {
+      "id": 5287,
+      "name": "الريان الجديد",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "الريان الجديد",
+      "en_name": "New Al Rayyan"
+    },
+    {
+      "id": 5286,
+      "name": "الريان القديم",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "الريان القديم",
+      "en_name": "Old Al Rayyan"
+    },
+    {
+      "id": 1257,
+      "name": "الزبارة",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "الزبارة",
+      "en_name": "Zubarah"
+    },
+    {
+      "id": 1242,
+      "name": "السالاتة",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "السالاتة",
+      "en_name": "As Salatah"
+    },
+    {
+      "id": 1233,
+      "name": "السخامه",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "السخامه",
+      "en_name": "Al sakhama"
+    },
+    {
+      "id": 5239,
+      "name": "السد",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "السد",
+      "en_name": "Al Saad"
+    },
+    {
+      "id": 1243,
+      "name": "السلاتة الجديدة",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "السلاتة الجديدة",
+      "en_name": "As Salatah al Jadidah"
+    },
+    {
+      "id": 5235,
+      "name": "السلطه القديمه",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "السلطه القديمه",
+      "en_name": "Old Slata"
+    },
+    {
+      "id": 5241,
+      "name": "السودان الشمالى",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "السودان الشمالى",
+      "en_name": "Al Soudan South"
+    },
+    {
+      "id": 1245,
+      "name": "السوق",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "السوق",
+      "en_name": "As Sawq"
+    },
+    {
+      "id": 783,
+      "name": "الشحانية",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "الشحانية",
+      "en_name": "Ash-Shahaniyah"
+    },
+    {
+      "id": 1244,
+      "name": "الصنيع",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "الصنيع",
+      "en_name": "As Sani`"
+    },
+    {
+      "id": 1103,
+      "name": "العامرية",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "العامرية",
+      "en_name": "Al Aamriya"
+    },
+    {
+      "id": 5228,
+      "name": "العبيب /الخيسه",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "العبيب /الخيسه",
+      "en_name": "Al Ebaib/Al Kheesa"
+    },
+    {
+      "id": 5281,
+      "name": "العُديد",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "العُديد",
+      "en_name": "Al Adaid"
+    },
+    {
+      "id": 382,
+      "name": "العذبة",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "العذبة",
+      "en_name": "Al `Adhbah"
+    },
+    {
+      "id": 5243,
+      "name": "العزيزيه",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "العزيزيه",
+      "en_name": "AL Azizya"
+    },
+    {
+      "id": 1234,
+      "name": "العطورية",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "العطورية",
+      "en_name": "Al Utouriya"
+    },
+    {
+      "id": 1235,
+      "name": "العوينة",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "العوينة",
+      "en_name": "Al Uwaynah"
+    },
+    {
+      "id": 174,
+      "name": "الغارية",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "الغارية",
+      "en_name": "Al Ghuwariyah"
+    },
+    {
+      "id": 5266,
+      "name": "الغانم الجديد",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "الغانم الجديد",
+      "en_name": "New Al Ghaniem"
+    },
+    {
+      "id": 5263,
+      "name": "الغانم القديم",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "الغانم القديم",
+      "en_name": "Old Al Ghanim"
+    },
+    {
+      "id": 1209,
+      "name": "الغشامية",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "الغشامية",
+      "en_name": "Al Ghashamiya"
+    },
+    {
+      "id": 1208,
+      "name": "الغنيم",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "الغنيم",
+      "en_name": "Al Ghanim"
+    },
+    {
+      "id": 175,
+      "name": "الغويرية",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "الغويرية",
+      "en_name": "Al-Ghuwayriyah"
+    },
+    {
+      "id": 1218,
+      "name": "القابية",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "القابية",
+      "en_name": "Al Qa`abiyah"
+    },
+    {
+      "id": 1239,
+      "name": "الكرعانة",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "الكرعانة",
+      "en_name": "Al-Kiranah"
+    },
+    {
+      "id": 415,
+      "name": "الكعبان",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "الكعبان",
+      "en_name": "al Ka`ban"
+    },
+    {
+      "id": 5277,
+      "name": "اللقطه",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "اللقطه",
+      "en_name": "Al Luqta"
+    },
+    {
+      "id": 5233,
+      "name": "المرخيه",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "المرخيه",
+      "en_name": "Al Markhiya"
+    },
+    {
+      "id": 5237,
+      "name": "المرقاب",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "المرقاب",
+      "en_name": "Dafna"
+    },
+    {
+      "id": 5238,
+      "name": "المرقاب الجديد",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "المرقاب الجديد",
+      "en_name": "AL Merqab Al Jadeed"
+    },
+    {
+      "id": 5258,
+      "name": "المُره",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "المُره",
+      "en_name": "Al Murra"
+    },
+    {
+      "id": 5234,
+      "name": "المسيله",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "المسيله",
+      "en_name": "Al Messila"
+    },
+    {
+      "id": 5262,
+      "name": "المطار القديم",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "المطار القديم",
+      "en_name": "Old Airport"
+    },
+    {
+      "id": 5259,
+      "name": "المعموره",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "المعموره",
+      "en_name": "Al Maamoura"
+    },
+    {
+      "id": 5248,
+      "name": "المناصير",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "المناصير",
+      "en_name": "AL Manaseer"
+    },
+    {
+      "id": 5232,
+      "name": "المنصورة /فريج بن درهم",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "المنصورة /فريج بن درهم",
+      "en_name": "Al Mansoura/Fereej Bin Dirham"
+    },
+    {
+      "id": 5285,
+      "name": "المنطقة الصناعية الجديده",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "المنطقة الصناعية الجديده",
+      "en_name": "Mesaieed Industrial Area"
+    },
+    {
+      "id": 5252,
+      "name": "المنطقه الصناعيه",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "المنطقه الصناعيه",
+      "en_name": "Industrial Area"
+    },
+    {
+      "id": 1240,
+      "name": "النجمة",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "النجمة",
+      "en_name": "An Najmah"
+    },
+    {
+      "id": 1248,
+      "name": "النصرانية",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "النصرانية",
+      "en_name": "Nasraniyah"
+    },
+    {
+      "id": 1217,
+      "name": "النعمان",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "النعمان",
+      "en_name": "Al Nu`man"
+    },
+    {
+      "id": 5260,
+      "name": "النعيجه",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "النعيجه",
+      "en_name": "Nuaija"
+    },
+    {
+      "id": 5289,
+      "name": "الهتمى الجديد",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "الهتمى الجديد",
+      "en_name": "New Al Hitmi"
+    },
+    {
+      "id": 5288,
+      "name": "الهتمى القديم",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "الهتمى القديم",
+      "en_name": "Old Al Hitmi"
+    },
+    {
+      "id": 176,
+      "name": "الهتمي",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "الهتمي",
+      "en_name": "Al Hitmi"
+    },
+    {
+      "id": 1210,
+      "name": "الهلال الشرقية",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "الهلال الشرقية",
+      "en_name": "Al Hilal"
+    },
+    {
+      "id": 1211,
+      "name": "الهلال الغربية",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "الهلال الغربية",
+      "en_name": "Al Hilal al Gharbiyah"
+    },
+    {
+      "id": 5275,
+      "name": "الوجبه",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "الوجبه",
+      "en_name": "Al Wajba"
+    },
+    {
+      "id": 1236,
+      "name": "الوعب",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "الوعب",
+      "en_name": "Al Waab"
+    },
+    {
+      "id": 182,
+      "name": "الوكرة",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "الوكرة",
+      "en_name": "Al Wakrah"
+    },
+    {
+      "id": 1237,
+      "name": "الوكير",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "الوكير",
+      "en_name": "Al Wukair"
+    },
+    {
+      "id": 1254,
+      "name": "ام شبرم",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "ام شبرم",
+      "en_name": "Umm al Shabrum"
+    },
+    {
+      "id": 5236,
+      "name": "بنى هاجر",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "بنى هاجر",
+      "en_name": "Bani Hajar"
+    },
+    {
+      "id": 5257,
+      "name": "بو سيدره",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "بو سيدره",
+      "en_name": "Bu Sidra"
+    },
+    {
+      "id": 5251,
+      "name": "حزم المرخيه",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "حزم المرخيه",
+      "en_name": "Hazm Al Markhiya"
+    },
+    {
+      "id": 1250,
+      "name": "حوطان",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "حوطان",
+      "en_name": "Rawdat Hawtan"
+    },
+    {
+      "id": 1213,
+      "name": "خريب",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "خريب",
+      "en_name": "Al Khara'rb"
+    },
+    {
+      "id": 5253,
+      "name": "دحل الحمام",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "دحل الحمام",
+      "en_name": "Dahl Al Hamam"
+    },
+    {
+      "id": 187,
+      "name": "دخان",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "دخان",
+      "en_name": "Dukhan"
+    },
+    {
+      "id": 5268,
+      "name": "راس ابو عبود",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "راس ابو عبود",
+      "en_name": "Ras Abu Abboud"
+    },
+    {
+      "id": 5283,
+      "name": "راس لفان",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "راس لفان",
+      "en_name": "Ras Laffan"
+    },
+    {
+      "id": 1249,
+      "name": "راس مطبخ",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "راس مطبخ",
+      "en_name": "Ras Matbakh"
+    },
+    {
+      "id": 5269,
+      "name": "روضة الخيل",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "روضة الخيل",
+      "en_name": "Rawdat Al Khail"
+    },
+    {
+      "id": 1251,
+      "name": "روضة راشد",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "روضة راشد",
+      "en_name": "Rawdat Rasid"
+    },
+    {
+      "id": 1256,
+      "name": "زكريت",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "زكريت",
+      "en_name": "Zekreet"
+    },
+    {
+      "id": 5282,
+      "name": "سميسمه",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "سميسمه",
+      "en_name": "Simaisma"
+    },
+    {
+      "id": 1258,
+      "name": "عريدة",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "عريدة",
+      "en_name": "Aradh"
+    },
+    {
+      "id": 5265,
+      "name": "عُنيزه",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "عُنيزه",
+      "en_name": "Onaiza"
+    },
+    {
+      "id": 1259,
+      "name": "عين أسنان",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "عين أسنان",
+      "en_name": "Ain Sinan"
+    },
+    {
+      "id": 5261,
+      "name": "عين خالد",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "عين خالد",
+      "en_name": "Ain Khaled"
+    },
+    {
+      "id": 5278,
+      "name": "فريج الأمير",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "فريج الأمير",
+      "en_name": "Fereej Al Amir"
+    },
+    {
+      "id": 5246,
+      "name": "فريج العلى",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "فريج العلى",
+      "en_name": "Fereej Al Ali"
+    },
+    {
+      "id": 5240,
+      "name": "فريج النصر",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "فريج النصر",
+      "en_name": "Fereej Al Nasr"
+    },
+    {
+      "id": 5249,
+      "name": "فريج بن عمران",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "فريج بن عمران",
+      "en_name": "Fereej Bin Omran"
+    },
+    {
+      "id": 5247,
+      "name": "فريج بن محمود",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "فريج بن محمود",
+      "en_name": "Fereej Bin Mahmoud"
+    },
+    {
+      "id": 5245,
+      "name": "فريج عبد العزيز",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "فريج عبد العزيز",
+      "en_name": "Fereej Abdul Aziz"
+    },
+    {
+      "id": 5250,
+      "name": "فريج كليب",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "فريج كليب",
+      "en_name": "Fereej Kulaib"
+    },
+    {
+      "id": 1246,
+      "name": "فويرط",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "فويرط",
+      "en_name": "Fuwayrit"
+    },
+    {
+      "id": 5229,
+      "name": "لوسيل",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "لوسيل",
+      "en_name": "Lusai"
+    },
+    {
+      "id": 1260,
+      "name": "محيش",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "محيش",
+      "en_name": "Mahaesh"
+    },
+    {
+      "id": 5255,
+      "name": "مدينة خليفة الجنوبية",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "مدينة خليفة الجنوبية",
+      "en_name": "Madinat Khalifa South"
+    },
+    {
+      "id": 5254,
+      "name": "مدينة خليفة الشماليه",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "مدينة خليفة الشماليه",
+      "en_name": "Madinat Khalifa North"
+    },
+    {
+      "id": 183,
+      "name": "مدينة رأس لفان الصناعية",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "مدينة رأس لفان الصناعية",
+      "en_name": "Ras Laffan Industrial City"
+    },
+    {
+      "id": 5274,
+      "name": "مٌريخ",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "مٌريخ",
+      "en_name": "Muraikh"
+    },
+    {
+      "id": 189,
+      "name": "مسيعيد",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "مسيعيد",
+      "en_name": "Umm Sa'id"
+    },
+    {
+      "id": 5264,
+      "name": "مسيمير",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "مسيمير",
+      "en_name": "Mesaimeer"
+    },
+    {
+      "id": 5256,
+      "name": "مشيرب",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "مشيرب",
+      "en_name": "Mushaireb"
+    },
+    {
+      "id": 5267,
+      "name": "معيذر",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "معيذر",
+      "en_name": "Muaither"
+    },
+    {
+      "id": 1247,
+      "name": "مكينس",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "مكينس",
+      "en_name": "Mukaynis"
+    },
+    {
+      "id": 5280,
+      "name": "ميبرك /بو نخله",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "ميبرك /بو نخله",
+      "en_name": "Mebaireek/Bu Nakhla"
+    },
+    {
+      "id": 5279,
+      "name": "وادى البنات",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "وادى البنات",
+      "en_name": "Wadi Al Banat"
+    },
+    {
+      "id": 5272,
+      "name": "وادى السيل",
+      "priority": 0,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "وادى السيل",
+      "en_name": "Wadi Al Sail"
+    },
+    {
+      "id": 1489,
+      "name": "أخرى",
+      "priority": -1,
+      "country_id": 26,
+      "country_name": "قطر",
+      "country_code": "QA",
+      "ar_name": "أخرى",
+      "en_name": "Other"
+    }
+  ]

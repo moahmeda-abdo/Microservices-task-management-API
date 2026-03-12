@@ -1,0 +1,42 @@
+[
+  {
+    "id": 965,
+    "name": "أنتويرب",
+    "priority": 0,
+    "country_id": 16,
+    "country_name": "بلجيكا",
+    "country_code": "BE",
+    "ar_name": "أنتويرب",
+    "en_name": "Antwerp"
+  },
+  {
+    "id": 964,
+    "name": "بروج",
+    "priority": 0,
+    "country_id": 16,
+    "country_name": "بلجيكا",
+    "country_code": "BE",
+    "ar_name": "بروج",
+    "en_name": "Bruges"
+  },
+  {
+    "id": 963,
+    "name": "بروكسل",
+    "priority": 0,
+    "country_id": 16,
+    "country_name": "بلجيكا",
+    "country_code": "BE",
+    "ar_name": "بروكسل",
+    "en_name": "Brussels"
+  },
+  {
+    "id": 1321,
+    "name": "أخرى",
+    "priority": -1,
+    "country_id": 16,
+    "country_name": "بلجيكا",
+    "country_code": "BE",
+    "ar_name": "أخرى",
+    "en_name": "Other"
+  }
+]

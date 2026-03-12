@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1067,
+    "name": "البصرة",
+    "priority": 0,
+    "country_id": 21,
+    "country_name": "العراق",
+    "country_code": "IQ",
+    "ar_name": "البصرة",
+    "en_name": "Basra"
+  },
+  {
+    "id": 1062,
+    "name": "البغدادي",
+    "priority": 0,
+    "country_id": 21,
+    "country_name": "العراق",
+    "country_code": "IQ",
+    "ar_name": "البغدادي",
+    "en_name": "Baghdadi"
+  },
+  {
+    "id": 1068,
+    "name": "الفلّوجة",
+    "priority": 0,
+    "country_id": 21,
+    "country_name": "العراق",
+    "country_code": "IQ",
+    "ar_name": "الفلّوجة",
+    "en_name": "Fallujah"
+  },
+  {
+    "id": 1069,
+    "name": "الناصرية",
+    "priority": 0,
+    "country_id": 21,
+    "country_name": "العراق",
+    "country_code": "IQ",
+    "ar_name": "الناصرية",
+    "en_name": "Nasiriyah"
+  },
+  {
+    "id": 1064,
+    "name": "النجف",
+    "priority": 0,
+    "country_id": 21,
+    "country_name": "العراق",
+    "country_code": "IQ",
+    "ar_name": "النجف",
+    "en_name": "Najaf"
+  },
+  {
+    "id": 1066,
+    "name": "بغداد",
+    "priority": 0,
+    "country_id": 21,
+    "country_name": "العراق",
+    "country_code": "IQ",
+    "ar_name": "بغداد",
+    "en_name": "Baghdad"
+  },
+  {
+    "id": 1065,
+    "name": "سامراء",
+    "priority": 0,
+    "country_id": 21,
+    "country_name": "العراق",
+    "country_code": "IQ",
+    "ar_name": "سامراء",
+    "en_name": "Samarra"
+  },
+  {
+    "id": 1063,
+    "name": "كربلاء",
+    "priority": 0,
+    "country_id": 21,
+    "country_name": "العراق",
+    "country_code": "IQ",
+    "ar_name": "كربلاء",
+    "en_name": "Karbala"
+  },
+  {
+    "id": 1409,
+    "name": "أخرى",
+    "priority": -1,
+    "country_id": 21,
+    "country_name": "العراق",
+    "country_code": "IQ",
+    "ar_name": "أخرى",
+    "en_name": "Other"
+  }
+]

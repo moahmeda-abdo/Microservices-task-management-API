@@ -1,0 +1,52 @@
+[
+  {
+    "id": 955,
+    "name": "غراتس",
+    "priority": 0,
+    "country_id": 15,
+    "country_name": "النمسا",
+    "country_code": "AT",
+    "ar_name": "غراتس",
+    "en_name": "Graz"
+  },
+  {
+    "id": 956,
+    "name": "فيلاخ",
+    "priority": 0,
+    "country_id": 15,
+    "country_name": "النمسا",
+    "country_code": "AT",
+    "ar_name": "فيلاخ",
+    "en_name": "Villach"
+  },
+  {
+    "id": 954,
+    "name": "فيينا",
+    "priority": 0,
+    "country_id": 15,
+    "country_name": "النمسا",
+    "country_code": "AT",
+    "ar_name": "فيينا",
+    "en_name": "Vienna"
+  },
+  {
+    "id": 1199,
+    "name": "لينز",
+    "priority": 0,
+    "country_id": 15,
+    "country_name": "النمسا",
+    "country_code": "AT",
+    "ar_name": "لينز",
+    "en_name": "Lenz"
+  },
+  {
+    "id": 1313,
+    "name": "أخرى",
+    "priority": -1,
+    "country_id": 15,
+    "country_name": "النمسا",
+    "country_code": "AT",
+    "ar_name": "أخرى",
+    "en_name": "Other"
+  }
+]

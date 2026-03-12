@@ -1,0 +1,19 @@
+import mongoose from 'mongoose'
+import { {{properCase name}}Document, Create{{properCase name}}Data } from './interfaces/{{snakeCase name}}_document.interface';
+import { {{properCase name}}Model } from './interfaces/{{snakeCase name}}_model.interface';
+import { {{properCase name}}ModelName } from '@common/models_names';
+
+
+const schema = new mongoose.Schema<{{properCase name}}Document, {{properCase name}}Model>({
+  is_deleted: {type: Boolean, default: false},
+} , {
+  timestamps: { createdAt: 'created_at', updatedAt: 'updated_at' }
+})
+
+
+schema.statics.build = (data: Create{{properCase name}}Data) => new {{properCase name}}(data);
+
+export const {{properCase name}} = mongoose.model<{{properCase name}}Document, {{properCase name}}Model>(
+  {{properCase name}}ModelName,
+  schema
+);

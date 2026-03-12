@@ -1,0 +1,22 @@
+[
+  {
+    "id": 970,
+    "name": "القاهرة",
+    "priority": 0,
+    "country_id": 6,
+    "country_name": "مصر",
+    "country_code": "EG",
+    "ar_name": "القاهرة",
+    "en_name": "Cairo"
+  },
+  {
+    "id": 1366,
+    "name": "أخرى",
+    "priority": -1,
+    "country_id": 6,
+    "country_name": "مصر",
+    "country_code": "EG",
+    "ar_name": "أخرى",
+    "en_name": "Other"
+  }
+]

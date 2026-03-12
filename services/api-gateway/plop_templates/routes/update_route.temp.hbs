@@ -1,0 +1,62 @@
+import { Router, Request, Response } from "express";
+
+import { {{properCase name}} } from '@models/{{snakeCase name}}/{{snakeCase name}}.model';
+import { Update{{properCase name}}Data } from "@models/{{snakeCase name}}/interfaces/{{snakeCase name}}_document.interface";
+
+
+{{#if authRequired}}
+import { AuthRequired } from "@core/middleware/auth/auth-required.middleware";
+{{/if}}
+{{#if userType}}
+import { RequireUserType } from "@core/middleware/auth/require-user-type.middleware";
+{{/if}}
+{{#if userRole}}
+import { RequireUserRole } from "@core/middleware/auth/require-user-role.middleware";
+{{/if}}
+
+
+import { JOIValidateRequest } from '@core/middleware/validation/joi-validate-request.middleware';
+import { Update{{properCase name}}ValidationSchema } from './validation/update_{{snakeCase name}}.validation';
+
+
+import { Middleware } from "@common/types.common";
+import { NotFoundError } from '@core/errors/not-found.error';
+
+const router = Router();
+
+
+const Update{{properCase name}}Controller: Middleware = async (req, res) => {
+    const data:RequestBody = req.body;
+
+    const update: Update{{properCase name}}Data = {
+        updated_at: new Date()
+    }
+    
+    const {{camelCase name}} = await {{properCase name}}.findByIdAndUpdate(
+      req.params.id,
+      update,
+      {new: true}
+    ).select("-is_deleted");
+
+    if (!{{camelCase name}} || {{camelCase name}}.is_deleted) throw new NotFoundError("{{camelCase name}} Not Found With Given Id");
+
+    res.status(200).json({status: 200, data: ({{camelCase name}}) } )
+}
+
+router.put(
+  "/:id",
+  {{#if authRequired}}
+  AuthRequired,
+  {{/if}}
+  {{#if userType}}
+  RequireUserType("{{userType}}"),
+  {{/if}}
+  JOIValidateRequest(Update{{properCase name}}ValidationSchema),
+  Update{{properCase name}}Controller
+);
+
+
+export {router as Update{{properCase name}}Route}
+
+
+interface RequestBody extends Omit<Update{{properCase name}}Data, "">{}

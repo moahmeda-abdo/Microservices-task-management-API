@@ -1,0 +1,71 @@
+import { {{properCase name}} as {{properCase name}}Interface , {{properCase name}}Document } from "./../../models/{{snakeCase name}}/interfaces/{{snakeCase name}}_document.interface";
+import { Object_id } from "@common/types.common";
+import { {{properCase name}} } from "@models/{{snakeCase name}}/{{snakeCase name}}.model";
+import { NotFoundError } from "@core/errors/not-found.error";
+import { Update{{properCase name}}Data } from "@models/{{snakeCase name}}/interfaces/{{snakeCase name}}_document.interface";
+import { Query, FilterQuery } from "mongoose";
+
+interface HelperOptions<T = {{properCase name}}Document | {{properCase name}}Document[]> {
+	throwCustomErrors?: boolean;
+  ignoreDeleted?: boolean;
+  builder?: (query: Query<T | null, T>) => Query<T | null, T>;
+}
+
+const defaultHelperOptions: HelperOptions = {
+	throwCustomErrors: true,
+  ignoreDeleted: true,
+};
+
+export const {{properCase name}}Helpers = {
+  async findById(
+		id: string | Object_id,
+		{ throwCustomErrors, ignoreDeleted, builder }: HelperOptions = defaultHelperOptions
+	) {
+    const query = {_id: id};
+    const queryCommand = this.findOne(query, {throwCustomErrors, ignoreDeleted, builder});
+		const doc = await queryCommand;
+		return doc;
+	},
+	async findOne(
+		query: FilterQuery<Partial<{{properCase name}}Interface & { _id: Object_id | string }>>,
+		{ throwCustomErrors, ignoreDeleted, builder }: HelperOptions = defaultHelperOptions
+	) {
+    const queryCommand = {{properCase name}}.findOne({is_deleted: false, ...query});
+    if (ignoreDeleted) query.is_deleted = false;
+		const doc = (await (builder ? builder(queryCommand) : queryCommand)) as {{properCase name}}Document | null;
+		if (!doc && throwCustomErrors)
+			throw new NotFoundError(`{{camelCase name}} Not Found | Query: ${query}`);
+		return doc;
+	},
+	async findByIdAndUpdate(
+		id: string | Object_id,
+		data: Omit<Update{{properCase name}}Data, "updated_at">,
+		{ throwCustomErrors, ignoreDeleted, builder }: HelperOptions = defaultHelperOptions
+	) {
+		const update = {...data, updated_at: new Date()};
+    const query = {_id: id};
+    const queryCommand = this.updateOne(query, update, {throwCustomErrors, ignoreDeleted, builder})
+		const doc = await queryCommand;
+		if (!doc && throwCustomErrors)
+			throw new NotFoundError(`{{camelCase name}} Not Found | id: ${id}`);
+    return doc
+	},
+	async updateOne(
+		query:FilterQuery<Partial<{{properCase name}}Interface & { _id: Object_id | string }>>,
+		data: Omit<Update{{properCase name}}Data, "updated_at">,
+		{ throwCustomErrors, ignoreDeleted, builder }: HelperOptions = defaultHelperOptions
+	) {
+    if (ignoreDeleted) query.is_deleted = false
+		const update = {
+			...data,
+			updated_at: new Date(),
+		};
+    const queryCommand = {{properCase name}}.findOneAndUpdate(query, update, {
+			new: true,
+		})
+		const doc = (await (builder ? builder(queryCommand) : queryCommand)) as {{properCase name}}Document | null;
+		if (!doc && throwCustomErrors)
+			throw new NotFoundError(`{{camelCase name}} Not Found | Query: ${query}`);
+		return doc;
+	},
+}

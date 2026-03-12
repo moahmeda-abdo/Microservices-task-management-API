@@ -1,0 +1,42 @@
+[
+  {
+    "id": 945,
+    "name": "باريس",
+    "priority": 0,
+    "country_id": 18,
+    "country_name": "فرنسا",
+    "country_code": "FR",
+    "ar_name": "باريس",
+    "en_name": "Paris"
+  },
+  {
+    "id": 947,
+    "name": "ستراسبورغ",
+    "priority": 0,
+    "country_id": 18,
+    "country_name": "فرنسا",
+    "country_code": "FR",
+    "ar_name": "ستراسبورغ",
+    "en_name": "Strasbourg"
+  },
+  {
+    "id": 946,
+    "name": "ليون",
+    "priority": 0,
+    "country_id": 18,
+    "country_name": "فرنسا",
+    "country_code": "FR",
+    "ar_name": "ليون",
+    "en_name": "Lyon"
+  },
+  {
+    "id": 1376,
+    "name": "أخرى",
+    "priority": -1,
+    "country_id": 18,
+    "country_name": "فرنسا",
+    "country_code": "FR",
+    "ar_name": "أخرى",
+    "en_name": "Other"
+  }
+]

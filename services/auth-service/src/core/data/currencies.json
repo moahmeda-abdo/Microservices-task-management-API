@@ -1,0 +1,379 @@
+ [
+    {
+      "id": 2,
+      "name": "US Dollar",
+      "code": "USD",
+      "symbol": "$",
+      "country": {
+        "id": 31,
+        "name": "الولايات المتحدة",
+        "code": "US",
+        "country_code": "USA",
+        "flag": "https://media.zid.store/static/us.svg"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Saudi Riyal",
+      "code": "SAR",
+      "symbol": "س.ر.",
+      "country": {
+        "id": 1,
+        "name": "السعودية",
+        "code": "SA",
+        "country_code": "SAU",
+        "flag": "https://media.zid.store/static/sa.svg"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Kuwaiti Dinar",
+      "code": "KWD",
+      "symbol": "د.ك.",
+      "country": {
+        "id": 3,
+        "name": "الكويت",
+        "code": "KW",
+        "country_code": "KWT",
+        "flag": "https://media.zid.store/static/kw.svg"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Bahraini Dinar",
+      "code": "BHD",
+      "symbol": ".د.",
+      "country": {
+        "id": 5,
+        "name": "البحرين",
+        "code": "BH",
+        "country_code": "BHR",
+        "flag": "https://media.zid.store/static/bh.svg"
+      }
+    },
+    {
+      "id": 7,
+      "name": "UAE Dirham",
+      "code": "AED",
+      "symbol": "دإ",
+      "country": {
+        "id": 2,
+        "name": "الإمارات العربية المتحدة",
+        "code": "AE",
+        "country_code": "ARE",
+        "flag": "https://media.zid.store/static/ae.svg"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Rial Omani",
+      "code": "OMR",
+      "symbol": "﷼",
+      "country": {
+        "id": 4,
+        "name": "عمان",
+        "code": "OM",
+        "country_code": "OMN",
+        "flag": "https://media.zid.store/static/om.svg"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Germany Euro",
+      "code": "EUR",
+      "symbol": "€",
+      "country": {
+        "id": 19,
+        "name": "ألمانيا",
+        "code": "DE",
+        "country_code": "DEU",
+        "flag": "https://media.zid.store/static/de.svg"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Spain Euro",
+      "code": "EUR",
+      "symbol": "€",
+      "country": {
+        "id": 27,
+        "name": "إسبانيا",
+        "code": "ES",
+        "country_code": "ESP",
+        "flag": "https://media.zid.store/static/es.svg"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Euro Italy",
+      "code": "EUR",
+      "symbol": "€",
+      "country": {
+        "id": 24,
+        "name": "إيطاليا",
+        "code": "IT",
+        "country_code": "ITA",
+        "flag": "https://media.zid.store/static/it.svg"
+      }
+    },
+    {
+      "id": 12,
+      "name": "France Euro",
+      "code": "EUR",
+      "symbol": "€",
+      "country": {
+        "id": 18,
+        "name": "فرنسا",
+        "code": "FR",
+        "country_code": "FRA",
+        "flag": "https://media.zid.store/static/fr.svg"
+      }
+    },
+    {
+      "id": 13,
+      "name": "Ireland Euro",
+      "code": "EUR",
+      "symbol": "€",
+      "country": {
+        "id": 22,
+        "name": "جمهورية أيرلندا",
+        "code": "IE",
+        "country_code": "IRL",
+        "flag": "https://media.zid.store/static/ie.svg"
+      }
+    },
+    {
+      "id": 14,
+      "name": "Greece Euro",
+      "code": "EUR",
+      "symbol": "€",
+      "country": {
+        "id": 20,
+        "name": "اليونان",
+        "code": "GR",
+        "country_code": "GRC",
+        "flag": "https://media.zid.store/static/gr.svg"
+      }
+    },
+    {
+      "id": 15,
+      "name": "Austria Euro",
+      "code": "EUR",
+      "symbol": "€",
+      "country": {
+        "id": 15,
+        "name": "النمسا",
+        "code": "AT",
+        "country_code": "AUT",
+        "flag": "https://media.zid.store/static/at.svg"
+      }
+    },
+    {
+      "id": 16,
+      "name": "Netherlands Euro",
+      "code": "EUR",
+      "symbol": "€",
+      "country": {
+        "id": 24,
+        "name": "هولندا",
+        "code": "NL",
+        "country_code": "NLD",
+        "flag": "https://media.zid.store/static/nl.svg"
+      }
+    },
+    {
+      "id": 17,
+      "name": "Portugal Euro",
+      "code": "EUR",
+      "symbol": "€",
+      "country": {
+        "id": 25,
+        "name": "البرتغال",
+        "code": "PT",
+        "country_code": "PRT",
+        "flag": "https://media.zid.store/static/pt.svg"
+      }
+    },
+    {
+      "id": 18,
+      "name": "Belgium Euro",
+      "code": "EUR",
+      "symbol": "€",
+      "country": {
+        "id": 16,
+        "name": "بلجيكا",
+        "code": "BE",
+        "country_code": "BEL",
+        "flag": "https://media.zid.store/static/be.svg"
+      }
+    },
+    {
+      "id": 19,
+      "name": "Switzerland Euro",
+      "code": "EUR",
+      "symbol": "€",
+      "country": {
+        "id": 28,
+        "name": "سويسرا",
+        "code": "CH",
+        "country_code": "CHE",
+        "flag": "https://media.zid.store/static/ch.svg"
+      }
+    },
+    {
+      "id": 20,
+      "name": "Pound Sterling",
+      "code": "GBP",
+      "symbol": "£",
+      "country": {
+        "id": 30,
+        "name": "المملكة المتحدة",
+        "code": "GB",
+        "country_code": "GBR",
+        "flag": "https://media.zid.store/static/gb.svg"
+      }
+    },
+    {
+      "id": 21,
+      "name": "Egyptian Pound",
+      "code": "EGP",
+      "symbol": "ج.م",
+      "country": {
+        "id": 6,
+        "name": "مصر",
+        "code": "EG",
+        "country_code": "EGY",
+        "flag": "https://media.zid.store/static/eg.svg"
+      }
+    },
+    {
+      "id": 22,
+      "name": "Turkish Lira",
+      "code": "TRY",
+      "symbol": "TL",
+      "country": {
+        "id": 29,
+        "name": "تركيا",
+        "code": "TR",
+        "country_code": "TUR",
+        "flag": "https://media.zid.store/static/tr.svg"
+      }
+    },
+    {
+      "id": 23,
+      "name": "Australian Dollar",
+      "code": "AUD",
+      "symbol": "$",
+      "country": {
+        "id": 14,
+        "name": "أستراليا",
+        "code": "AU",
+        "country_code": "AUS",
+        "flag": "https://media.zid.store/static/au.svg"
+      }
+    },
+    {
+      "id": 24,
+      "name": "Canadian Dollar",
+      "code": "CAD",
+      "symbol": "$",
+      "country": {
+        "id": 17,
+        "name": "كندا",
+        "code": "CA",
+        "country_code": "CAN",
+        "flag": "https://media.zid.store/static/ca.svg"
+      }
+    },
+    {
+      "id": 25,
+      "name": "Jordanian Dinar",
+      "code": "JOD",
+      "symbol": "د.ا.",
+      "country": {
+        "id": 7,
+        "name": "الأردن",
+        "code": "JO",
+        "country_code": "JOR",
+        "flag": "https://media.zid.store/static/jo.svg"
+      }
+    },
+    {
+      "id": 26,
+      "name": "Libyan Dinar",
+      "code": "LYD",
+      "symbol": "د.ل.",
+      "country": {
+        "id": 11,
+        "name": "ليبيا",
+        "code": "LY",
+        "country_code": "LBY",
+        "flag": "https://media.zid.store/static/ly.svg"
+      }
+    },
+    {
+      "id": 27,
+      "name": "Algerian Dinar",
+      "code": "DZD",
+      "symbol": "د.ج",
+      "country": {
+        "id": 12,
+        "name": "الجزائر",
+        "code": "DZ",
+        "country_code": "DZA",
+        "flag": "https://media.zid.store/static/dz.svg"
+      }
+    },
+    {
+      "id": 28,
+      "name": "Tunisian Dinar",
+      "code": "TND",
+      "symbol": "د.ت.",
+      "country": {
+        "id": 9,
+        "name": "تونس",
+        "code": "TN",
+        "country_code": "TUN",
+        "flag": "https://media.zid.store/static/tn.svg"
+      }
+    },
+    {
+      "id": 29,
+      "name": "Moroccan Dirham",
+      "code": "MAD",
+      "symbol": "د.م.",
+      "country": {
+        "id": 10,
+        "name": "المغرب",
+        "code": "MA",
+        "country_code": "MAR",
+        "flag": "https://media.zid.store/static/ma.svg"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Lebanese Pound",
+      "code": "LBP",
+      "symbol": "ل.ل.",
+      "country": {
+        "id": 118,
+        "name": "لبنان",
+        "code": "LB",
+        "country_code": "LBN",
+        "flag": "https://media.zid.store/static/lb.svg"
+      }
+    },
+    {
+      "id": 31,
+      "name": "Qatar",
+      "code": "QAR",
+      "symbol": "ق.ر.",
+      "country": {
+        "id": 26,
+        "name": "قطر",
+        "code": "QA",
+        "country_code": "QAT",
+        "flag": "https://media.zid.store/static/qa.svg"
+      }
+    }
+  ]

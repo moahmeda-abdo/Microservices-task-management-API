@@ -1,0 +1,23 @@
+{
+  "name": "task-management-micro-services",
+  "private": true,
+  "workspaces": [
+    "services/*",
+    "packages/*"
+  ],
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:logger": "npm run build -w @tm/logger",
+    "build:services": "npm run build -ws --if-present",
+    "build:all": "npm run build -w @tm/logger && npm run build -ws --if-present",
+    "dev": "docker compose up --build",
+    "dev:down": "docker compose down"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}

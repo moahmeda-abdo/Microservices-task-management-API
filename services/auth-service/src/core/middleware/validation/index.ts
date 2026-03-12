@@ -1,0 +1,1 @@
+export * from './joi-validate-request.middleware'

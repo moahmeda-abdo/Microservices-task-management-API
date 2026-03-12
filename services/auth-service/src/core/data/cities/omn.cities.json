@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 389,
+    "name": "Al Awabi - Barka",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "Al Awabi - Barka",
+    "en_name": "Al Awabi - Barka"
+  },
+  {
+    "id": 390,
+    "name": "Al Awabi - Muscat",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "Al Awabi - Muscat",
+    "en_name": "Al Awabi - Muscat"
+  },
+  {
+    "id": 395,
+    "name": "Al Bidayah",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "Al Bidayah",
+    "en_name": "Al Bidayah"
+  },
+  {
+    "id": 403,
+    "name": "Al Ghazir",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "Al Ghazir",
+    "en_name": "Al Ghazir"
+  },
+  {
+    "id": 412,
+    "name": "Al Jazir",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "Al Jazir",
+    "en_name": "Al Jazir"
+  },
+  {
+    "id": 437,
+    "name": "Al Mudhaibi",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "Al Mudhaibi",
+    "en_name": "Al Mudhaibi"
+  },
+  {
+    "id": 448,
+    "name": "Al Saada",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "Al Saada",
+    "en_name": "Al Saada"
+  },
+  {
+    "id": 464,
+    "name": "Amerat",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "Amerat",
+    "en_name": "Amerat"
+  },
+  {
+    "id": 471,
+    "name": "ankul",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "ankul",
+    "en_name": "ankul"
+  },
+  {
+    "id": 481,
+    "name": "Azaiba",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "Azaiba",
+    "en_name": "Azaiba"
+  },
+  {
+    "id": 492,
+    "name": "Bidiya",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "Bidiya",
+    "en_name": "Bidiya"
+  },
+  {
+    "id": 494,
+    "name": "Bisiyah",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "Bisiyah",
+    "en_name": "Bisiyah"
+  },
+  {
+    "id": 542,
+    "name": "Firq",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "Firq",
+    "en_name": "Firq"
+  },
+  {
+    "id": 589,
+    "name": "Jalan",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "Jalan",
+    "en_name": "Jalan"
+  },
+  {
+    "id": 599,
+    "name": "Jibroo",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "Jibroo",
+    "en_name": "Jibroo"
+  },
+  {
+    "id": 641,
+    "name": "Mahout",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "Mahout",
+    "en_name": "Mahout"
+  },
+  {
+    "id": 710,
+    "name": "Qatartana",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "Qatartana",
+    "en_name": "Qatartana"
+  },
+  {
+    "id": 804,
+    "name": "Sidab",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "Sidab",
+    "en_name": "Sidab"
+  },
+  {
+    "id": 821,
+    "name": "Sunaina",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "Sunaina",
+    "en_name": "Sunaina"
+  },
+  {
+    "id": 853,
+    "name": "Wattaya",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "Wattaya",
+    "en_name": "Wattaya"
+  },
+  {
+    "id": 374,
+    "name": "أدم",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "أدم",
+    "en_name": "Adam"
+  },
+  {
+    "id": 204,
+    "name": "إبراء",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "إبراء",
+    "en_name": "Ibra"
+  },
+  {
+    "id": 578,
+    "name": "ازكي",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "ازكي",
+    "en_name": "Izki"
+  },
+  {
+    "id": 387,
+    "name": "الاشخرة",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "الاشخرة",
+    "en_name": "Al Ashkarah"
+  },
+  {
+    "id": 1186,
+    "name": "البادية",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "البادية",
+    "en_name": "Badiyah"
+  },
+  {
+    "id": 1200,
+    "name": "الجبل الأخضر",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "الجبل الأخضر",
+    "en_name": "Jabal Akhdar"
+  },
+  {
+    "id": 411,
+    "name": "الجديدة",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "الجديدة",
+    "en_name": "Al Jadida"
+  },
+  {
+    "id": 404,
+    "name": "الحمراء",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "الحمراء",
+    "en_name": "Al Hamra"
+  },
+  {
+    "id": 617,
+    "name": "الخابورة",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "الخابورة",
+    "en_name": "Khabourah"
+  },
+  {
+    "id": 421,
+    "name": "الخوض",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "الخوض",
+    "en_name": "Al Khodh"
+  },
+  {
+    "id": 422,
+    "name": "الخوير",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "الخوير",
+    "en_name": "Al Khuwair"
+  },
+  {
+    "id": 398,
+    "name": "الدقم",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "الدقم",
+    "en_name": "Al Duqm"
+  },
+  {
+    "id": 197,
+    "name": "الرستاق",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "الرستاق",
+    "en_name": "Rustaq"
+  },
+  {
+    "id": 1194,
+    "name": "السایق",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "السایق",
+    "en_name": "Saiq"
+  },
+  {
+    "id": 477,
+    "name": "السليف",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "السليف",
+    "en_name": "As Sulaif"
+  },
+  {
+    "id": 209,
+    "name": "السويق",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "السويق",
+    "en_name": "Suwayq"
+  },
+  {
+    "id": 206,
+    "name": "السيب",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "السيب",
+    "en_name": "Seeb"
+  },
+  {
+    "id": 385,
+    "name": "العقر",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "العقر",
+    "en_name": "Al Aqir"
+  },
+  {
+    "id": 388,
+    "name": "العوابی",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "العوابی",
+    "en_name": "Al Awabi"
+  },
+  {
+    "id": 416,
+    "name": "القابل",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "القابل",
+    "en_name": "Al Kabil"
+  },
+  {
+    "id": 417,
+    "name": "الكامل والوافي",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "الكامل والوافي",
+    "en_name": "Al Kamil Wal Wafi"
+  },
+  {
+    "id": 1183,
+    "name": "المديرب",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "المديرب",
+    "en_name": "Al Mudhaireb"
+  },
+  {
+    "id": 207,
+    "name": "المدينة الزرقاء (عمان)",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "المدينة الزرقاء (عمان)",
+    "en_name": "Blue City"
+  },
+  {
+    "id": 430,
+    "name": "المزيونة",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "المزيونة",
+    "en_name": "Al Mazyunah"
+  },
+  {
+    "id": 678,
+    "name": "المصنعة",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "المصنعة",
+    "en_name": "Musannah"
+  },
+  {
+    "id": 1181,
+    "name": "المعبيلة",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "المعبيلة",
+    "en_name": "Al Maabilah"
+  },
+  {
+    "id": 1182,
+    "name": "الموالح الشمالية",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "الموالح الشمالية",
+    "en_name": "Al Mawaleh North"
+  },
+  {
+    "id": 1184,
+    "name": "الوافي",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "الوافي",
+    "en_name": "Al Wafi"
+  },
+  {
+    "id": 1185,
+    "name": "الوسطى",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "الوسطى",
+    "en_name": "Al Wusta"
+  },
+  {
+    "id": 498,
+    "name": "بخاء",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "بخاء",
+    "en_name": "Bukha"
+  },
+  {
+    "id": 490,
+    "name": "بدبد",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "بدبد",
+    "en_name": "Bidbid"
+  },
+  {
+    "id": 491,
+    "name": "بدية",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "بدية",
+    "en_name": "Bideyah "
+  },
+  {
+    "id": 201,
+    "name": "بركاء",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "بركاء",
+    "en_name": "Barka"
+  },
+  {
+    "id": 203,
+    "name": "بريمي",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "بريمي",
+    "en_name": "AlBuraymi"
+  },
+  {
+    "id": 208,
+    "name": "بهلا",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "بهلا",
+    "en_name": "Bahla"
+  },
+  {
+    "id": 202,
+    "name": "بوشر",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "بوشر",
+    "en_name": "Bawshar"
+  },
+  {
+    "id": 1197,
+    "name": "تانام",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "تانام",
+    "en_name": "Tan`am"
+  },
+  {
+    "id": 833,
+    "name": "ثمريت",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "ثمريت",
+    "en_name": "Thamrait"
+  },
+  {
+    "id": 1190,
+    "name": "جالان بني",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "جالان بني",
+    "en_name": "Jalan Bani"
+  },
+  {
+    "id": 1189,
+    "name": "جبرين",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "جبرين",
+    "en_name": "Jabrin"
+  },
+  {
+    "id": 1180,
+    "name": "جزر الحلانيات",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "جزر الحلانيات",
+    "en_name": "Al Halaniyat Islands"
+  },
+  {
+    "id": 581,
+    "name": "جعلان بني بو حسن",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "جعلان بني بو حسن",
+    "en_name": "Jaalan ni Bu Hassan"
+  },
+  {
+    "id": 580,
+    "name": "جعلان بني بو علي",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "جعلان بني بو علي",
+    "en_name": "Jaalan Bani Bu Ali "
+  },
+  {
+    "id": 564,
+    "name": "حمرية",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "حمرية",
+    "en_name": "Hamriya"
+  },
+  {
+    "id": 1188,
+    "name": "حي الصاروج",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "حي الصاروج",
+    "en_name": "Hayy As Saruj"
+  },
+  {
+    "id": 210,
+    "name": "خصب",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "خصب",
+    "en_name": "Khasab"
+  },
+  {
+    "id": 1187,
+    "name": "دبا",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "دبا",
+    "en_name": "Diba"
+  },
+  {
+    "id": 521,
+    "name": "دما والطائيين",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "دما والطائيين",
+    "en_name": "Dima Wattayeen"
+  },
+  {
+    "id": 748,
+    "name": "رسيل",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "رسيل",
+    "en_name": "Rusayl"
+  },
+  {
+    "id": 749,
+    "name": "روي",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "روي",
+    "en_name": "Ruwi"
+  },
+  {
+    "id": 1193,
+    "name": "ريسوت",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "ريسوت",
+    "en_name": "Raysut"
+  },
+  {
+    "id": 763,
+    "name": "سدح",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "سدح",
+    "en_name": "Sadah"
+  },
+  {
+    "id": 214,
+    "name": "سمائل",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "سمائل",
+    "en_name": "Samail"
+  },
+  {
+    "id": 775,
+    "name": "سمد الشأن",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "سمد الشأن",
+    "en_name": "Samad Al Shan"
+  },
+  {
+    "id": 808,
+    "name": "سناو",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "سناو",
+    "en_name": "Sinaw"
+  },
+  {
+    "id": 1196,
+    "name": "سوده",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "سوده",
+    "en_name": "Sudh"
+  },
+  {
+    "id": 1195,
+    "name": "شاطئ القرم",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "شاطئ القرم",
+    "en_name": "Shati Al Qurum"
+  },
+  {
+    "id": 212,
+    "name": "شناص",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "شناص",
+    "en_name": "Shinas"
+  },
+  {
+    "id": 194,
+    "name": "صحار",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "صحار",
+    "en_name": "Sohar"
+  },
+  {
+    "id": 215,
+    "name": "صحم",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "صحم",
+    "en_name": "Saham"
+  },
+  {
+    "id": 199,
+    "name": "صلالة",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "صلالة",
+    "en_name": "Salalah"
+  },
+  {
+    "id": 196,
+    "name": "صور",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "صور",
+    "en_name": "Sur"
+  },
+  {
+    "id": 519,
+    "name": "ضنك",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "ضنك",
+    "en_name": "Dhank"
+  },
+  {
+    "id": 1198,
+    "name": "طاقة",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "طاقة",
+    "en_name": "Taqah"
+  },
+  {
+    "id": 834,
+    "name": "طيوي",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "طيوي",
+    "en_name": "Tiwi"
+  },
+  {
+    "id": 518,
+    "name": "ظلكوت",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "ظلكوت",
+    "en_name": "Dhalkut"
+  },
+  {
+    "id": 200,
+    "name": "عامرات",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "عامرات",
+    "en_name": "Al Amarat"
+  },
+  {
+    "id": 576,
+    "name": "عبري",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "عبري",
+    "en_name": "Ibri"
+  },
+  {
+    "id": 552,
+    "name": "غبرة",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "غبرة",
+    "en_name": "Ghubra"
+  },
+  {
+    "id": 547,
+    "name": "غلا",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "غلا",
+    "en_name": "Ghala"
+  },
+  {
+    "id": 534,
+    "name": "فلج القبائل",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "فلج القبائل",
+    "en_name": "Falaj Al Qabail"
+  },
+  {
+    "id": 535,
+    "name": "فنجاء",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "فنجاء",
+    "en_name": "Fanja"
+  },
+  {
+    "id": 530,
+    "name": "فهود",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "فهود",
+    "en_name": "Fahud"
+  },
+  {
+    "id": 724,
+    "name": "قرم",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "قرم",
+    "en_name": "Qurum"
+  },
+  {
+    "id": 213,
+    "name": "قريات",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "قريات",
+    "en_name": "Qurayat"
+  },
+  {
+    "id": 1201,
+    "name": "قطنا",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "قطنا",
+    "en_name": "Qatana"
+  },
+  {
+    "id": 198,
+    "name": "قلهات",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "قلهات",
+    "en_name": "Qalhat"
+  },
+  {
+    "id": 635,
+    "name": "لوى",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "لوى",
+    "en_name": "Liwa"
+  },
+  {
+    "id": 211,
+    "name": "مدحاء",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "مدحاء",
+    "en_name": "Madha"
+  },
+  {
+    "id": 640,
+    "name": "مدحاء",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "مدحاء",
+    "en_name": "Mahdha"
+  },
+  {
+    "id": 636,
+    "name": "مدينة سلطان قابوس",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "مدينة سلطان قابوس",
+    "en_name": "Madinat Sultan Qaboos"
+  },
+  {
+    "id": 1191,
+    "name": "مرباط",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "مرباط",
+    "en_name": "Marbat"
+  },
+  {
+    "id": 652,
+    "name": "مرمول",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "مرمول",
+    "en_name": "Marmul"
+  },
+  {
+    "id": 193,
+    "name": "مسقط",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "مسقط",
+    "en_name": "Muscat"
+  },
+  {
+    "id": 656,
+    "name": "مصيره",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "مصيره",
+    "en_name": "Masirah"
+  },
+  {
+    "id": 205,
+    "name": "مطرح",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "مطرح",
+    "en_name": "Muttrah"
+  },
+  {
+    "id": 1192,
+    "name": "مقشن",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "مقشن",
+    "en_name": "Muqshin"
+  },
+  {
+    "id": 645,
+    "name": "منح",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "منح",
+    "en_name": "Manah"
+  },
+  {
+    "id": 658,
+    "name": "موالح",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "موالح",
+    "en_name": "Mawaleh"
+  },
+  {
+    "id": 686,
+    "name": "نخل",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "نخل",
+    "en_name": "Nakhl"
+  },
+  {
+    "id": 195,
+    "name": "نزوى",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "نزوى",
+    "en_name": "Nizwa"
+  },
+  {
+    "id": 559,
+    "name": "هيما",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "هيما",
+    "en_name": "Haima"
+  },
+  {
+    "id": 848,
+    "name": "وادي الكبير",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "وادي الكبير",
+    "en_name": "Wadi Kabir"
+  },
+  {
+    "id": 846,
+    "name": "وادي المعاول",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "وادي المعاول",
+    "en_name": "Wadi al Maawil"
+  },
+  {
+    "id": 847,
+    "name": "وادي بني خالد",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "وادي بني خالد",
+    "en_name": "Wadi Bani Khalid"
+  },
+  {
+    "id": 845,
+    "name": "وادي عدي",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "وادي عدي",
+    "en_name": "Wadi Adai"
+  },
+  {
+    "id": 856,
+    "name": "ودام الساحل",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "ودام الساحل",
+    "en_name": "Wudam Al Sahil"
+  },
+  {
+    "id": 455,
+    "name": "ولاية السنينة",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "ولاية السنينة",
+    "en_name": "Al Sinaina"
+  },
+  {
+    "id": 858,
+    "name": "ينقل",
+    "priority": 0,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "ينقل",
+    "en_name": "Yankul"
+  },
+  {
+    "id": 1474,
+    "name": "أخرى",
+    "priority": -1,
+    "country_id": 4,
+    "country_name": "عمان",
+    "country_code": "OM",
+    "ar_name": "أخرى",
+    "en_name": "Other"
+  }
+]

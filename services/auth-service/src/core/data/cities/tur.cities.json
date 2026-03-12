@@ -1,0 +1,32 @@
+[
+  {
+    "id": 971,
+    "name": "أنقرة",
+    "priority": 0,
+    "country_id": 29,
+    "country_name": "تركيا",
+    "country_code": "TR",
+    "ar_name": "أنقرة",
+    "en_name": "Ankara"
+  },
+  {
+    "id": 1277,
+    "name": "إسطنبول",
+    "priority": 0,
+    "country_id": 29,
+    "country_name": "تركيا",
+    "country_code": "TR",
+    "ar_name": "إسطنبول",
+    "en_name": "Istanbul"
+  },
+  {
+    "id": 1527,
+    "name": "أخرى",
+    "priority": -1,
+    "country_id": 29,
+    "country_name": "تركيا",
+    "country_code": "TR",
+    "ar_name": "أخرى",
+    "en_name": "Other"
+  }
+]

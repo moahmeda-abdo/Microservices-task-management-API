@@ -1,0 +1,5 @@
+import { Model } from 'mongoose';
+import { {{properCase name}}Document, Create{{properCase name}}Data } from './{{snakeCase name}}_document.interface';
+export interface {{properCase name}}Model extends Model<{{properCase name}}Document> {
+  build(data: Create{{properCase name}}Data):{{properCase name}}Document
+}
