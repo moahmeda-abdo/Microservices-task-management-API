@@ -1,5 +1,5 @@
 import { Object_id_or_string } from '@common/types.common';
-import { Document } from 'mongoose'
+import mongoose, { Document } from 'mongoose'
 
 export interface Auth {
   email: string;
@@ -12,7 +12,9 @@ export interface Auth {
   updated_at: Date;
 }
 
-export interface AuthDocument extends Auth, Document { }
+export interface AuthDocument extends Auth, Document { 
+  _id: mongoose.Types.ObjectId;
+}
 
 export type CreateAuthData = Omit<Auth, 'created_at' | 'updated_at' | 'is_deleted'>
 

@@ -24,6 +24,8 @@ services:
       - ./services/auth-service/.env
     ports:
       - "3001:3001"
+    environment:
+      RABBITMQ_URL: amqp://rabbitmq:5672
     depends_on:
       - rabbitmq
     restart: unless-stopped
@@ -39,6 +41,8 @@ services:
       - ./services/users-service/.env
     ports:
       - "3004:3004"
+    environment:
+      RABBITMQ_URL: amqp://rabbitmq:5672
     depends_on:
       - rabbitmq
     restart: unless-stopped
@@ -54,6 +58,8 @@ services:
       - ./services/tasks-service/.env
     ports:
       - "3003:3003"
+    environment:
+      RABBITMQ_URL: amqp://rabbitmq:5672
     depends_on:
       - rabbitmq
     restart: unless-stopped
@@ -69,6 +75,8 @@ services:
       - ./services/notifications-service/.env
     ports:
       - "3002:3002"
+    environment:
+      RABBITMQ_URL: amqp://rabbitmq:5672
     depends_on:
       - rabbitmq
     restart: unless-stopped
