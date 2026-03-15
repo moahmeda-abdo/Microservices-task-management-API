@@ -1,15 +1,25 @@
 import Joi from 'joi';
 
 export const RegisterAuthValidationSchema = Joi.object({
-    name: Joi.string()
+    first_name: Joi.string()
         .min(2)
         .max(50)
         .required()
         .messages({
-            'string.base': 'Name must be a string',
-            'string.min': 'Name must be at least 2 characters long',
-            'string.max': 'Name must be at most 50 characters long',
-            'any.required': 'Name is required',
+            'string.base': 'First name must be a string',
+            'string.min': 'First name must be at least 2 characters long',
+            'string.max': 'First name must be at most 50 characters long',
+            'any.required': 'First name is required',
+        }),
+    last_name: Joi.string()
+        .min(2)
+        .max(50)
+        .required()
+        .messages({
+            'string.base': 'Last name must be a string',
+            'string.min': 'Last name must be at least 2 characters long',
+            'string.max': 'Last name must be at most 50 characters long',
+            'any.required': 'Last name is required',
         }),
 
     phone: Joi.string()
