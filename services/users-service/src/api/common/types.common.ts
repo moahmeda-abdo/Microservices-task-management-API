@@ -9,8 +9,15 @@ export type Object_id_or_string = Object_id | string;
 export type System_language = "ar" | "en";
 
 export type MultiLanguageField = Record<System_language, string>;
+export interface RequestWithCurrentUser extends Request {
+	currentUser?: {
+		auth_id: string;
+		email: string;
+		role: string;
+	};
+}
 export type Middleware = (
-	req: Request,
+	req: RequestWithCurrentUser,
 	res: Response,
 	next?: NextFunction
 ) => any;

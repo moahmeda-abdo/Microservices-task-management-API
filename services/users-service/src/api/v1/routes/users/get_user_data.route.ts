@@ -1,7 +1,8 @@
 import { Middleware } from "@common/types.common";
 import { UnAuthorizedError } from "@core/errors";
 import { RequireAuth } from "@core/middleware/auth/auth-required.middleware";
-import { Auth } from "@models/auth/auth.model";
+
+import { User } from "@models/user/user.model";
 import { Router } from "express";
 
 const router = Router();
@@ -12,22 +13,22 @@ const MeRouter: Middleware = async (req, res) => {
         throw new UnAuthorizedError("User is not authorized");
     }
 
-    const user = await Auth.findById(req.currentUser.auth_id).select("-password");
+    const user = await User.findOne({ user_id: req.currentUser.auth_id }).select("-password");
 
-    if (!user || !user.is_active) {
+    if (!user) {
         throw new UnAuthorizedError("User is not authorized");
     }
 
-    return res.status(200).json(
-        {
+    return res.json({
+        user: {
             id: user._id,
             email: user.email,
+            name: user.first_name + " " + user.last_name,
             role: user.role,
-            is_active: user.is_active,
-            user_id: user.user_id || null,
             created_at: user.created_at,
-            updated_at: user.updated_at,
+            updated_at: user.updated_at
         }
+    }
     );
 }
 

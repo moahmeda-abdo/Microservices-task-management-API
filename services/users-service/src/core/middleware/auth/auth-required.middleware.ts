@@ -1,7 +1,7 @@
 import { Middleware } from "@common/types.common";
 import { UnAuthorizedError } from "@core/errors";
 import { JWT } from "@core/services";
-import { Auth } from "@models/auth/auth.model";
+import { User } from "@models/user/user.model";
 
 export const RequireAuth: Middleware = async (req, _res, next) => {
   const authorization = req.headers.authorization;
@@ -26,12 +26,13 @@ export const RequireAuth: Middleware = async (req, _res, next) => {
       email: string;
       role: string;
     };
-    const user = await Auth.findById(payload.auth_id);
+
+    const user = await User.findOne({ user_id: payload.auth_id });
 
     if (!user || user.is_deleted) {
       throw new UnAuthorizedError("User not found or deleted");
     }
-
+    
     req.currentUser = payload;
 
     next!();

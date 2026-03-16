@@ -8,9 +8,7 @@ const router = Router();
 router.use("/users", createProxyMiddleware({
     target: ENV.usersServiceUrl,
     changeOrigin: true,
-    pathRewrite: {
-        "^/users": "/api/v1/users",
-    },
+    pathRewrite: (path) => `/api/v1/users${path}`,
     proxyTimeout: 10000,
     timeout: 10000,
 }))
