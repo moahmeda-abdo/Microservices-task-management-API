@@ -1,10 +1,11 @@
-import { Router} from "express";
+import { Router } from "express";
 import { CreateTaskData } from "@models/task/interfaces/task_document.interface";
 import { Task } from "@models/task/task.model";
 import { Middleware } from "@common/types.common";
 import { JOIValidateRequest } from "@core/middleware/validation/joi-validate-request.middleware";
 import { CreateTaskValidationSchema } from "./validation/create_task.validation";
 import { UnAuthorizedError } from "@core/errors";
+import { publishTaskCreated } from "src/events/publishers/task.created.publisher";
 const router = Router();
 
 const CreateTaskController: Middleware = async (req, res) => {
@@ -18,9 +19,11 @@ const CreateTaskController: Middleware = async (req, res) => {
     ...data,
     user_id: req.currentUser.auth_id,
   };
- 
+
   const task = Task.build(buildData);
   await task.save();
+  await publishTaskCreated(task);
+
   res.status(201).json({
     status: 201,
     data: task,
@@ -35,4 +38,4 @@ router.post(
 
 export { router as CreateTaskRoute };
 
-interface RequestData extends Omit<CreateTaskData, "user_id"> {}
+interface RequestData extends Omit<CreateTaskData, "user_id"> { }

@@ -11,6 +11,7 @@ import { ObjectIdRouteParamsValidationSchema } from "@common/validation/route_pa
 import { Middleware } from "@common/types.common";
 import { NotFoundError } from "@core/errors/not-found.error";
 import { UnAuthorizedError } from "@core/errors";
+import { publishTaskDeleted } from "src/events/publishers/task.deleted.publisher";
 
 const router = Router();
 
@@ -25,6 +26,7 @@ const DeleteTaskController: Middleware = async (req, res) => {
 		{ is_deleted: true },
 	);
 	if (!task) throw new NotFoundError("task Not Found With Given Id");
+	await publishTaskDeleted(task);
 	res.status(204).end()
 }
 

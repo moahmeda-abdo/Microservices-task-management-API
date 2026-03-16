@@ -1,3 +1,4 @@
+import { Object_id_or_string } from '@common/types.common';
 import { Document } from 'mongoose'
 export enum TaskStatus {
   TODO = "todo",
@@ -34,7 +35,9 @@ export interface Task {
   updated_at: Date;
 }
 
-export interface TaskDocument extends Task, Document { }
+export interface TaskDocument extends Task, Document {
+  _id: string;
+}
 
 export type CreateTaskData = Omit<Task, 'created_at' | 'updated_at' | 'is_deleted'>
 

@@ -4,44 +4,53 @@ let connection: ChannelModel | null = null;
 let channel: Channel | null = null;
 
 const RABBITMQ_URL = process.env.RABBITMQ_URL || "amqp://rabbitmq:5672";
-// const AUTH_EXCHANGE = process.env.RABBITMQ_EXCHANGE || "auth.exchange";
+const APP_EXCHANGE = process.env.RABBITMQ_EXCHANGE || "app.exchange";
 
 function sleep(ms: number) {
     return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
-export async function connectRabbitMQ(retries = 10, delay = 5000): Promise<Channel> {
+export async function connectRabbitMQ(
+    retries = 10,
+    delay = 5000
+): Promise<Channel> {
     if (channel) return channel;
 
     for (let attempt = 1; attempt <= retries; attempt++) {
         try {
             connection = await amqp.connect(RABBITMQ_URL);
-            console.log(` users-service connected to RabbitMQ: ${RABBITMQ_URL}`);
+            console.log(`task-service connected to RabbitMQ: ${RABBITMQ_URL}`);
 
             connection.on("error", (err) => {
-                console.error(" RabbitMQ connection error:", err);
+                console.error("RabbitMQ connection error:", err);
             });
 
             connection.on("close", () => {
-                console.error("⚠️ RabbitMQ connection closed");
+                console.error("RabbitMQ connection closed");
                 connection = null;
                 channel = null;
             });
 
             connection.on("blocked", (reason) => {
-                console.warn("⚠️ RabbitMQ connection blocked:", reason);
+                console.warn("RabbitMQ connection blocked:", reason);
             });
 
             connection.on("unblocked", () => {
-                console.log(" RabbitMQ connection unblocked");
+                console.log("RabbitMQ connection unblocked");
             });
 
             channel = await connection.createChannel();
-            console.log(" users-service RabbitMQ channel created");
+            console.log("task-service RabbitMQ channel created");
 
             channel.on("error", (err) => {
-                console.error(" RabbitMQ channel error:", err);
+                console.error("RabbitMQ channel error:", err);
             });
+
+            await channel.assertExchange(APP_EXCHANGE, "topic", {
+                durable: true,
+            });
+
+            console.log(`Exchange '${APP_EXCHANGE}' asserted`);
 
             return channel;
         } catch (error) {
@@ -79,3 +88,4 @@ export async function closeRabbitMQ(): Promise<void> {
 }
 
 export type RabbitMessage = ConsumeMessage;
+export { APP_EXCHANGE };

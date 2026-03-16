@@ -7,6 +7,7 @@ import { Middleware } from "@common/types.common";
 import { NotFoundError } from '@core/errors/not-found.error';
 import { ObjectIdRouteParamsValidationSchema } from "@common/validation/route_params.validation";
 import { UnAuthorizedError } from "@core/errors";
+import { publishTaskUpdated } from "src/events/publishers/task.updated.publisher";
 
 const router = Router();
 
@@ -34,7 +35,7 @@ const UpdateTaskController: Middleware = async (req, res) => {
   ).select("-is_deleted");
 
   if (!task) throw new NotFoundError("task Not Found With Given Id");
-
+  await publishTaskUpdated(task);
   res.status(200).json({ status: 200, data: (task) })
 }
 
