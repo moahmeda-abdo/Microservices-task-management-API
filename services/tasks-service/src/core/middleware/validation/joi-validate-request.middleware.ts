@@ -19,7 +19,7 @@ export const JOIValidateRequest: JOIValidateRequestType =
 	(req, res, next) => {
 		let toValidate: Record<string, any> = req[property];
 
-		const error = schema.validate(toValidate, options).error;
+		const { error, value } = schema.validate(toValidate, options);
 		if (error?.details.length ?? 0 > 0) {
 			throw new RequestValidationError(
 				error?.details.map((err) => ({
@@ -29,5 +29,6 @@ export const JOIValidateRequest: JOIValidateRequestType =
 				})) ?? []
 			);
 		}
+		(req as Record<string, any>)[property] = value;
 		next!();
 	};
