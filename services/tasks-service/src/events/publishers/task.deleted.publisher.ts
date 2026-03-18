@@ -2,6 +2,7 @@
 import { getRabbitChannel, APP_EXCHANGE } from "../../config/rabbitmq";
 import { TaskSubjects } from "../task.subjects";
 import { BaseEventPayload } from "./base-event";
+import { TaskDocument } from "@models/task/interfaces/task_document.interface";
 
 interface TaskDeletedData {
     id: string;
@@ -10,11 +11,10 @@ interface TaskDeletedData {
     deletedAt: string;
 }
 
-export async function publishTaskDeleted(task: {
-    _id: string;
-    title: string;
-    user_id: string;
-}) {
+export async function publishTaskDeleted(task: Pick<
+    TaskDocument,
+    "_id" | "title" | "user_id"
+>) {
     const channel = getRabbitChannel();
 
     const payload: BaseEventPayload<TaskDeletedData> = {

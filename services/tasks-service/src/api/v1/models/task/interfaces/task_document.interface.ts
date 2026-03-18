@@ -1,5 +1,5 @@
 import { Object_id_or_string } from '@common/types.common';
-import { Document } from 'mongoose'
+import mongoose, { Document } from 'mongoose'
 export enum TaskStatus {
   TODO = "todo",
   IN_PROGRESS = "in_progress",
@@ -22,6 +22,7 @@ export interface TaskAttrs {
 }
 
 export interface Task {
+
   title: string;
   description?: string;
   status: TaskStatus;
@@ -36,7 +37,8 @@ export interface Task {
 }
 
 export interface TaskDocument extends Task, Document {
-  _id: string;
+  _id: mongoose.Types.ObjectId;
+
 }
 
 export type CreateTaskData = Omit<Task, 'created_at' | 'updated_at' | 'is_deleted'>

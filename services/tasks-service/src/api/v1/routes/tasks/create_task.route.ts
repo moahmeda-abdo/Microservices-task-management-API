@@ -5,7 +5,7 @@ import { Middleware } from "@common/types.common";
 import { JOIValidateRequest } from "@core/middleware/validation/joi-validate-request.middleware";
 import { CreateTaskValidationSchema } from "./validation/create_task.validation";
 import { UnAuthorizedError } from "@core/errors";
-import { publishTaskCreated } from "src/events/publishers/task.created.publisher";
+import { publishTaskCreated } from "../../../../events/publishers/task.created.publisher";
 const router = Router();
 
 const CreateTaskController: Middleware = async (req, res) => {

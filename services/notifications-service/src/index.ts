@@ -3,6 +3,8 @@ import env from "dotenv";
 import { initializeLogger, logger } from "@tm/logger";
 import { initMongoDBConnection } from "./core/db/connect_db";
 import { app } from "./app";
+import { connectRabbitMQ } from "./config/rabbitmq";
+import { consumeTaskEvents } from "./events/consumers/task.events.consumer";
 
 env.config({ path: path.join(__dirname, "../.env") });
 
@@ -32,7 +34,8 @@ const serviceName = process.env.SERVICE_NAME || "unknown-service";
 		]);
 
 		await initMongoDBConnection();
-
+		await connectRabbitMQ();
+		await consumeTaskEvents();
 
 		const port = +(process.env.PORT ?? "0") || 4000;
 		app.listen(port, () => {

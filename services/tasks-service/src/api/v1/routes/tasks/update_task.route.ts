@@ -7,7 +7,7 @@ import { Middleware } from "@common/types.common";
 import { NotFoundError } from '@core/errors/not-found.error';
 import { ObjectIdRouteParamsValidationSchema } from "@common/validation/route_params.validation";
 import { UnAuthorizedError } from "@core/errors";
-import { publishTaskUpdated } from "src/events/publishers/task.updated.publisher";
+import { publishTaskUpdated } from "../../../../events/publishers/task.updated.publisher";
 
 const router = Router();
 

@@ -1,6 +1,7 @@
 import { getRabbitChannel, APP_EXCHANGE } from "../../config/rabbitmq";
 import { TaskSubjects } from "../task.subjects";
 import { BaseEventPayload } from "./base-event";
+import { TaskDocument } from "@models/task/interfaces/task_document.interface";
 
 interface TaskUpdatedData {
     id: string;
@@ -14,17 +15,10 @@ interface TaskUpdatedData {
     updatedAt: Date;
 }
 
-export async function publishTaskUpdated(task: {
-    _id: string;
-    title: string;
-    description?: string;
-    status: string;
-    priority: string;
-    due_date?: Date | null;
-    user_id: string;
-    createdAt: Date;
-    updatedAt: Date;
-}) {
+export async function publishTaskUpdated(task: Pick<
+    TaskDocument,
+    "_id" | "title" | "description" | "status" | "priority" | "due_date" | "user_id" | "createdAt" | "updatedAt"
+>) {
     const channel = getRabbitChannel();
 
     const payload: BaseEventPayload<TaskUpdatedData> = {

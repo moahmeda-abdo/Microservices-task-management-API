@@ -1,17 +1,11 @@
 import { Router } from "express";
-
 import { Task } from "@models/task/task.model";
-
-
-
 import { JOIValidateRequest } from "@core/middleware/validation/joi-validate-request.middleware";
-
 import { ObjectIdRouteParamsValidationSchema } from "@common/validation/route_params.validation"
-
 import { Middleware } from "@common/types.common";
 import { NotFoundError } from "@core/errors/not-found.error";
 import { UnAuthorizedError } from "@core/errors";
-import { publishTaskDeleted } from "src/events/publishers/task.deleted.publisher";
+import { publishTaskDeleted } from "../../../../events/publishers/task.deleted.publisher";
 
 const router = Router();
 
@@ -27,6 +21,7 @@ const DeleteTaskController: Middleware = async (req, res) => {
 	);
 	if (!task) throw new NotFoundError("task Not Found With Given Id");
 	await publishTaskDeleted(task);
+
 	res.status(204).end()
 }
 
