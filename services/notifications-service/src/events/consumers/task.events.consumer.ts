@@ -1,6 +1,7 @@
 import { APP_EXCHANGE, getRabbitChannel, RabbitMessage } from "../../config/rabbitmq";
 import { Notification } from "@models/notification/notification.model";
 import { CreateNotificationData, NotificationDocument, NotificationType } from "@models/notification/interfaces/notification_document.interface";
+import { emitNotificationCreated } from "../../api/v1/sockets/notification-realtime.service";
 
 const TASK_EVENTS_QUEUE =
     process.env.TASK_EVENTS_QUEUE || "notifications.task.events.queue";
@@ -54,8 +55,8 @@ export async function consumeTaskEvents() {
             console.log("Received task event:", event.event);
 
             switch (event.event) {
-                case "task.created":
-                    await createNotification({
+                case "task.created": {
+                    const notification = await createNotification({
                         user_id: event.data.user_id,
                         type: NotificationType.TASK_CREATED,
                         title: "Task Created",
@@ -68,10 +69,14 @@ export async function consumeTaskEvents() {
                             due_date: event.data.due_date ?? null,
                         },
                     });
-                    break;
 
-                case "task.updated":
-                    await createNotification({
+                    emitNotificationCreated(notification);
+
+                    break;
+                }
+
+                case "task.updated": {
+                    const notification = await createNotification({
                         user_id: event.data.user_id,
                         type: NotificationType.TASK_UPDATED,
                         title: "Task Updated",
@@ -84,10 +89,14 @@ export async function consumeTaskEvents() {
                             due_date: event.data.due_date ?? null,
                         },
                     });
-                    break;
 
-                case "task.deleted":
-                    await createNotification({
+                    emitNotificationCreated(notification);
+
+                    break;
+                }
+
+                case "task.deleted": {
+                    const notification = await createNotification({
                         user_id: event.data.user_id,
                         type: NotificationType.TASK_DELETED,
                         title: "Task Deleted",
@@ -98,7 +107,11 @@ export async function consumeTaskEvents() {
                             deletedAt: event.data.deletedAt ?? new Date().toISOString(),
                         },
                     });
+
+                    emitNotificationCreated(notification);
+
                     break;
+                }
 
                 default:
                     console.log("[notifications-service] unknown event:", event.event);
