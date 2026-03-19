@@ -1,7 +1,10 @@
 import path from "path";
+import { createServer } from "http";
+import { Socket } from "net";
 import env from "dotenv";
 import { initializeLogger, logger } from "@tm/logger";
 import { app } from "./app";
+import { notificationsSocketProxy } from "@routes/notifications.socket.routes";
 
 env.config({ path: path.join(__dirname, "../.env") });
 
@@ -24,10 +27,29 @@ const serviceName = process.env.SERVICE_NAME || "unknown-service";
 
 		validateENVS([
 			"NODE_ENV",
+			"AUTH_SERVICE_URL",
+			"USERS_SERVICE_URL",
+			"TASKS_SERVICE_URL",
+			"NOTIFICATIONS_SERVICE_URL",
 		]);
 
+		const server = createServer(app);
 		const port = +(process.env.PORT ?? "0") || 4000;
-		app.listen(port, () => {
+
+		server.on("upgrade", (req, socket, head) => {
+			if (req.url?.startsWith("/api/v1/notifications/socket.io")) {
+				logger?.info(
+					`proxying websocket upgrade for notifications path ${req.url}`
+				);
+				notificationsSocketProxy.upgrade(req, socket as Socket, head);
+				return;
+			}
+
+			logger?.warn(`unhandled websocket upgrade path ${req.url}`);
+			socket.destroy();
+		});
+
+		server.listen(port, () => {
 			logger?.info(
 				`${serviceName.toUpperCase()} Service Started Successfully On Port ${port}`
 			);
